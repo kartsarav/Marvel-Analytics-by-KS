@@ -17,22 +17,26 @@ Each project folder under this repository represents a unique analysis topic rel
 ---
 
 ## 🧩 Folder Structure
-Marvel-Analytics-by-KS/
-│
-├── movie-release-optimization/
-│   ├── data/
-│   │   ├── raw/          → Original unprocessed datasets
-│   │   └── cleaned/      → Processed/filtered datasets
-│   │
-│   ├── notebooks/        → Jupyter notebooks for analysis
-│   ├── scripts/          → Reusable Python or SQL scripts
-│   ├── visuals/          → Graphs, dashboards, and charts
-│   ├── docs/             → Supporting notes or references
-│   ├── README.md         → Project-specific overview
-│   └── roadmap.md        → Task and progress tracker
-│
-├── README.md              → You are here (main repository overview)
-└── LICENSE (optional)
+Marvel-Analytics-by-KS
+* movie-release-optimization
+    * data
+        * raw
+            * kaggle
+            * scraped
+        * cleaned
+            * xlsx
+            * csv
+        * output
+            * xlsx
+            * csv
+    * notebooks (Jupyter notebooks for analysis)
+    * scripts (Reusable Python or SQL scripts)
+    * visuals (Graphs, dashboards, and charts)
+    * docs (Supporting notes or references)
+    * README.md 
+    * roadmap.md
+* README.md (You are here)
+* LICENSE
 
 ---
 
