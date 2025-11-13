@@ -13,8 +13,8 @@ import os
 base_dir = os.path.dirname(os.path.abspath(__file__))
 root_dir = os.path.abspath(os.path.join(base_dir, "..", ".."))
 
-all_movies_file = os.path.join(root_dir, "data", "cleaned", "csv", "movies.csv")
-marvel_movies_file = os.path.join(root_dir, "data", "cleaned", "csv", "marvel_movies.csv")
+all_movies_file = os.path.join(root_dir, "data", "processing", "filter 1", "csv", "movies.csv")
+marvel_movies_file = os.path.join(root_dir, "data", "processing", "filter 1", "csv", "marvel_movies.csv")
 output_file = os.path.join(root_dir, "data", "output", "csv", "filtered_movies.csv")
 
 date_window = 60  # days before/after Marvel release

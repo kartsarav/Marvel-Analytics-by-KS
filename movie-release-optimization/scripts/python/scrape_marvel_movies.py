@@ -70,12 +70,10 @@ else:
     print("❌ No movie tables found.")
     exit()
 
-# Create a data folder if it doesn't exist
-output_dir = "../data"
-os.makedirs(output_dir, exist_ok=True)
-
 # Save the combined CSV
-output_path = os.path.join(output_dir, "marvel_movies_all_tables.csv")
+root_dir = os.path.abspath(os.path.join(base_dir, "..", ".."))
+output_path = os.path.join(root_dir, "data", "output", "csv", "marvel_movies.csv")
 all_movies.to_csv(output_path, index=False)
+
 
 print(f"✅ Successfully saved all Marvel movie tables to: {output_path}")
