@@ -2,7 +2,7 @@
 # File: scrape_marvel_movies.py
 # Author: Kartik Saravanan
 # Date: NOV 12 2025
-# Last Modified: NOV 12 2025
+# Last Modified: NOV 14 2025
 # Description: This script scrapes Marvel Cinematic Universe movie release data from Wikipedia
 #              and saves it as a CSV file for the Marvel Analytics by KS: Movie Release Optimization project.
 
