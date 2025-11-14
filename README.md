@@ -28,11 +28,7 @@ Marvel-Analytics-by-KS
             * filter 2
             * filter 3  
         * cleaned
-            * xlsx
-            * csv
         * output
-            * xlsx
-            * csv
     * notebooks (Jupyter notebooks for analysis)
     * scripts (Reusable Python or SQL scripts)
         * python 
