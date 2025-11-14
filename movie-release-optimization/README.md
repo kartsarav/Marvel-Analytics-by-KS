@@ -25,23 +25,25 @@ Independent variables (Tier 1 & Tier 2):
 	•	Budget and marketing proxy indicators
 	•	Franchise continuity and studio ownership (Marvel, Fox, Sony)
 
-movie-release-optimization/
-│
-├── data/
-│   ├── raw/           # Original Kaggle datasets (not uploaded due to size)
-│   ├── scraped/       # Data from Wikipedia (Marvel release tables)
-│   ├── cleaned/       # Filtered, merged datasets ready for analysis
-│   └── output/        # Filtered lists and processed CSVs
-│
-├── scripts/           # Reusable Python scripts
-│   ├── scrape_marvel_movies.py
-│   └── filter_movie_list.py
-│
-├── notebooks/         # Jupyter notebooks for data exploration
-├── visuals/           # Charts and dashboards (Matplotlib / Tableau)
-├── docs/              # Supporting notes, roadmap, and data dictionary
-├── roadmap.md         # Step-by-step plan for the project
-└── README.md          # (You are here)
+## 🧩 Folder Structure
+movie-release-optimization
+* data
+  * raw
+    * kaggle
+      * scraped
+    * processing
+      * filter 1
+        * filter 2
+        * filter 3  
+    * cleaned
+    * output
+* notebooks (Jupyter notebooks for analysis)
+* scripts (Reusable Python or SQL scripts)
+  * python 
+  * visuals (Graphs, dashboards, and charts)
+  * docs (Supporting notes or references)
+  * README.md (You are here)
+  * roadmap.md
 
 ⚙️ Tools & Technologies
 Category
