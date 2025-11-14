@@ -29,14 +29,14 @@ Independent variables (Tier 1 & Tier 2):
 movie-release-optimization
 * data
   * raw
-    * kaggle
-      * scraped
-    * processing
-      * filter 1
-        * filter 2
-        * filter 3  
-    * cleaned
-    * output
+  	* kaggle
+    * scraped
+  * processing
+    * filter 1
+    * filter 2
+    * filter 3  
+  * cleaned
+  * output
 * notebooks (Jupyter notebooks for analysis)
 * scripts (Reusable Python or SQL scripts)
   * python 
