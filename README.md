@@ -23,14 +23,15 @@ Marvel-Analytics-by-KS
         * raw
             * kaggle
             * scraped
+        * processing
+            * filter 1
+            * filter 2
+            * filter 3  
         * cleaned
-            * xlsx
-            * csv
         * output
-            * xlsx
-            * csv
     * notebooks (Jupyter notebooks for analysis)
     * scripts (Reusable Python or SQL scripts)
+        * python 
     * visuals (Graphs, dashboards, and charts)
     * docs (Supporting notes or references)
     * README.md 
