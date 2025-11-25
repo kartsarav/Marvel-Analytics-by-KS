@@ -1,864 +1,835 @@
-title,marvel_movie,marvel_release_date
-10 Cloverfield Lane,captain america: civil war,5/6/16
-"10,000 BC",iron man,5/2/08
-12 Strong,black panther,2/16/18
-12 Years a Slave,thor: the dark world,11/8/13
-21,iron man,5/2/08
-21 Jump Street,the avengers,5/4/12
-22 Jump Street,guardians of the galaxy,8/1/14
-28 Years Later,"the fantastic four: first steps, thunderbolts*","2025-05-02, 2025-07-25"
-3 Days to Kill,captain america: the winter soldier,4/4/14
-30 Minutes or Less,captain america: the first avenger,7/22/11
-300: Rise of an Empire,captain america: the winter soldier,4/4/14
-42,iron man 3,5/3/13
-47 Ronin,thor: the dark world,11/8/13
-65,ant-man and the wasp: quantumania,2/17/23
-A Big Bold Beautiful Journey,the fantastic four: first steps,7/25/25
-A Ghost Story,guardians of the galaxy vol. 2,5/5/17
-A Haunting in Venice,the marvels,11/10/23
-A Man Called Otto,"ant-man and the wasp: quantumania, black panther: wakanda forever","2022-11-11, 2023-02-17"
-A Million Ways to Die in the West,captain america: the winter soldier,4/4/14
-A Minecraft Movie,"captain america: brave new world, thunderbolts*","2025-02-14, 2025-05-02"
-A Monster Calls,doctor strange,11/4/16
-A Nightmare on Elm Street,iron man 2,5/7/10
-A Quiet Place,"avengers: infinity war, black panther","2018-02-16, 2018-04-27"
-A Quiet Place Part II,black widow,7/9/21
-A Quiet Place: Day One,deadpool & wolverine,7/26/24
-A Working Man,"captain america: brave new world, thunderbolts*","2025-02-14, 2025-05-02"
-Abraham Lincoln: Vampire Hunter,the avengers,5/4/12
-Adipurush,guardians of the galaxy vol. 3,5/5/23
-After,captain marvel,3/8/19
-After Earth,iron man 3,5/3/13
-Afterburn,the fantastic four: first steps,7/25/25
-Aladdin,"avengers: endgame, spider-man: far from home","2019-04-26, 2019-07-02"
-Alice Through the Looking Glass,captain america: civil war,5/6/16
-Alien: Covenant,"guardians of the galaxy vol. 2, spider-man: homecoming","2017-05-05, 2017-07-07"
-Alien: Romulus,deadpool & wolverine,7/26/24
-Alita: Battle Angel,captain marvel,3/8/19
-All of Us Strangers,the marvels,11/10/23
-All the Money in the World,"black panther, thor: ragnarok","2017-11-03, 2018-02-16"
-Allegiant,captain america: civil war,5/6/16
-Allied,doctor strange,11/4/16
-Aloha,ant-man,7/17/15
-Ambulance,doctor strange in the multiverse of madness,5/6/22
-American Animals,ant-man and the wasp,7/6/18
-American Assassin,spider-man: homecoming,7/7/17
-American Hustle,thor: the dark world,11/8/13
-American Made,spider-man: homecoming,7/7/17
-American Ultra,ant-man,7/17/15
-Americana,the fantastic four: first steps,7/25/25
-Amsterdam,black panther: wakanda forever,11/11/22
-Anchorman 2: The Legend Continues,thor: the dark world,11/8/13
-Angel Has Fallen,spider-man: far from home,7/2/19
-Animal,the marvels,11/10/23
-Anna,spider-man: far from home,7/2/19
-Annabelle Comes Home,spider-man: far from home,7/2/19
-Annabelle: Creation,spider-man: homecoming,7/7/17
-Annihilation,black panther,2/16/18
-Ant-Man,ant-man,7/17/15
-Ant-Man and the Wasp,ant-man and the wasp,7/6/18
-Ant-Man and the Wasp: Quantumania,ant-man and the wasp: quantumania,2/17/23
-Antlers,"eternals, shang-chi and the legend of the ten rings","2021-09-03, 2021-11-05"
-Anyone But You,the marvels,11/10/23
-Aquaman and the Lost Kingdom,the marvels,11/10/23
-"Are You There God? It's Me, Margaret.",ant-man and the wasp: quantumania,2/17/23
-Army of Thieves,"eternals, shang-chi and the legend of the ten rings","2021-09-03, 2021-11-05"
-Army of the Dead,black widow,7/9/21
-Arrival,doctor strange,11/4/16
-Assassin's Creed,doctor strange,11/4/16
-Atomic Blonde,spider-man: homecoming,7/7/17
-Attack the Block,thor,5/6/11
-August: Osage County,thor: the dark world,11/8/13
-Avatar: The Way of Water,black panther: wakanda forever,11/11/22
-Avengers: Age of Ultron,avengers: age of ultron,5/1/15
-Avengers: Endgame,"avengers: endgame, captain marvel","2019-03-08, 2019-04-26"
-Avengers: Infinity War,avengers: infinity war,4/27/18
-Baby Driver,"guardians of the galaxy vol. 2, spider-man: homecoming","2017-05-05, 2017-07-07"
-Babygirl,captain america: brave new world,2/14/25
-Babylon,"ant-man and the wasp: quantumania, black panther: wakanda forever","2022-11-11, 2023-02-17"
-Bad Boys: Ride or Die,deadpool & wolverine,7/26/24
-Bad Teacher,thor,5/6/11
-Ballerina,"the fantastic four: first steps, thunderbolts*","2025-05-02, 2025-07-25"
-Batman v Superman: Dawn of Justice,captain america: civil war,5/6/16
-Battle: Los Angeles,thor,5/6/11
-Battleship,the avengers,5/4/12
-Baywatch,"guardians of the galaxy vol. 2, spider-man: homecoming","2017-05-05, 2017-07-07"
-Beasts of No Nation,ant-man,7/17/15
-Beau Is Afraid,"ant-man and the wasp: quantumania, guardians of the galaxy vol. 3","2023-02-17, 2023-05-05"
-Beauty and the Beast,guardians of the galaxy vol. 2,5/5/17
-Beetlejuice Beetlejuice,deadpool & wolverine,7/26/24
-Before Midnight,iron man 3,5/3/13
-Begin Again,guardians of the galaxy,8/1/14
-Beginners,"captain america: the first avenger, thor","2011-05-06, 2011-07-22"
-Belfast,"eternals, spider-man: no way home","2021-11-05, 2021-12-17"
-BlacKkKlansman,ant-man and the wasp,7/6/18
-Black Adam,black panther: wakanda forever,11/11/22
-Black Bag,"captain america: brave new world, thunderbolts*","2025-02-14, 2025-05-02"
-Black Panther,black panther,2/16/18
-Black Panther: Wakanda Forever,black panther: wakanda forever,11/11/22
-Black Widow,"black widow, shang-chi and the legend of the ten rings","2021-07-09, 2021-09-03"
-BlackBerry,ant-man and the wasp: quantumania,2/17/23
-Blade Runner 2049,thor: ragnarok,11/3/17
-Blended,captain america: the winter soldier,4/4/14
-Blindness,the incredible hulk,6/13/08
-Blink Twice,deadpool & wolverine,7/26/24
-Blitz,thor,5/6/11
-Blockers,black panther,2/16/18
-Bodies Bodies Bodies,thor: love and thunder,7/8/22
-Bones and All,black panther: wakanda forever,11/11/22
-Booksmart,spider-man: far from home,7/2/19
-Borderlands,deadpool & wolverine,7/26/24
-Brave,the avengers,5/4/12
-Bridesmaids,thor,5/6/11
-Bridget Jones's Baby,doctor strange,11/4/16
-Bridget Jones: Mad About the Boy,captain america: brave new world,2/14/25
-Brightburn,spider-man: far from home,7/2/19
-Bring Her Back,"the fantastic four: first steps, thunderbolts*","2025-05-02, 2025-07-25"
-Bros,black panther: wakanda forever,11/11/22
-Bullet Train,thor: love and thunder,7/8/22
-Burning,ant-man and the wasp,7/6/18
-CODA,"black widow, shang-chi and the legend of the ten rings","2021-07-09, 2021-09-03"
-Call Me by Your Name,spider-man: homecoming,7/7/17
-Candyman,"black widow, shang-chi and the legend of the ten rings","2021-07-09, 2021-09-03"
-Captain America: Brave New World,captain america: brave new world,2/14/25
-Captain America: Civil War,captain america: civil war,5/6/16
-Captain America: The First Avenger,captain america: the first avenger,7/22/11
-Captain America: The Winter Soldier,captain america: the winter soldier,4/4/14
-Captain Marvel,"avengers: endgame, captain marvel","2019-03-08, 2019-04-26"
-Captain Phillips,thor: the dark world,11/8/13
-Carnage,captain america: the first avenger,7/22/11
-Carrie,thor: the dark world,11/8/13
-Cars 2,"captain america: the first avenger, thor","2011-05-06, 2011-07-22"
-Cars 3,"guardians of the galaxy vol. 2, spider-man: homecoming","2017-05-05, 2017-07-07"
-Caught Stealing,the fantastic four: first steps,7/25/25
-Central Intelligence,captain america: civil war,5/6/16
-Chappie,avengers: age of ultron,5/1/15
-Chef,captain america: the winter soldier,4/4/14
-Chhaava,captain america: brave new world,2/14/25
-Chip 'n Dale: Rescue Rangers,thor: love and thunder,7/8/22
-Christopher Robin,ant-man and the wasp,7/6/18
-Cinderella,avengers: age of ultron,5/1/15
-Clash of the Titans,iron man 2,5/7/10
-Cloudy with a Chance of Meatballs 2,thor: the dark world,11/8/13
-Cocaine Bear,ant-man and the wasp: quantumania,2/17/23
-Coco,thor: ragnarok,11/3/17
-Coherence,thor: the dark world,11/8/13
-Cold Pursuit,captain marvel,3/8/19
-Collateral Beauty,doctor strange,11/4/16
-Colombiana,captain america: the first avenger,7/22/11
-Companion,captain america: brave new world,2/14/25
-Conan the Barbarian,captain america: the first avenger,7/22/11
-Contagion,captain america: the first avenger,7/22/11
-Copshop,eternals,11/5/21
-Cowboys & Aliens,captain america: the first avenger,7/22/11
-Crawl,spider-man: far from home,7/2/19
-Crazy Rich Asians,ant-man and the wasp,7/6/18
-"Crazy, Stupid, Love.",captain america: the first avenger,7/22/11
-Creed III,ant-man and the wasp: quantumania,2/17/23
-Crimes of the Future,thor: love and thunder,7/8/22
-Cruella,black widow,7/9/21
-DC League of Super-Pets,thor: love and thunder,7/8/22
-Daddy's Home 2,thor: ragnarok,11/3/17
-Dangerous Animals,"the fantastic four: first steps, thunderbolts*","2025-05-02, 2025-07-25"
-Dark Phoenix,"avengers: endgame, spider-man: far from home","2019-04-26, 2019-07-02"
-Dark Shadows,the avengers,5/4/12
-Darkest Hour,thor: ragnarok,11/3/17
-Date Night,iron man 2,5/7/10
-Dawn of the Planet of the Apes,guardians of the galaxy,8/1/14
-Deadpool & Wolverine,deadpool & wolverine,7/26/24
-Deadpool 2,"ant-man and the wasp, avengers: infinity war","2018-04-27, 2018-07-06"
-Death of a Unicorn,"captain america: brave new world, thunderbolts*","2025-02-14, 2025-05-02"
-Death on the Nile,spider-man: no way home,12/17/21
-Deepwater Horizon,doctor strange,11/4/16
-Delivery Man,thor: the dark world,11/8/13
-Demon Slayer: Kimetsu no Yaiba Infinity Castle,the fantastic four: first steps,7/25/25
-Den of Thieves,black panther,2/16/18
-Den of Thieves 2: Pantera,captain america: brave new world,2/14/25
-Despicable Me 2,iron man 3,5/3/13
-Despicable Me 3,"guardians of the galaxy vol. 2, spider-man: homecoming","2017-05-05, 2017-07-07"
-Despicable Me 4,deadpool & wolverine,7/26/24
-Divergent,captain america: the winter soldier,4/4/14
-Doctor Strange,doctor strange,11/4/16
-Doctor Strange in the Multiverse of Madness,doctor strange in the multiverse of madness,5/6/22
-Don't Breathe,captain america: civil war,5/6/16
-Don't Breathe 2,"black widow, shang-chi and the legend of the ten rings","2021-07-09, 2021-09-03"
-Don't Look Up,"eternals, spider-man: no way home","2021-11-05, 2021-12-17"
-Don't Worry Darling,black panther: wakanda forever,11/11/22
-Dope,ant-man,7/17/15
-Downsizing,"black panther, thor: ragnarok","2017-11-03, 2018-02-16"
-Downton Abbey: The Grand Finale,the fantastic four: first steps,7/25/25
-Dream Scenario,the marvels,11/10/23
-Drishyam,ant-man,7/17/15
-Drive,captain america: the first avenger,7/22/11
-Drive My Car,"black widow, shang-chi and the legend of the ten rings","2021-07-09, 2021-09-03"
-Drop,"captain america: brave new world, thunderbolts*","2025-02-14, 2025-05-02"
-Dumb Money,the marvels,11/10/23
-Dumbo,captain marvel,3/8/19
-Dune,"eternals, shang-chi and the legend of the ten rings","2021-09-03, 2021-11-05"
-Dungeons & Dragons: Honor Among Thieves,"ant-man and the wasp: quantumania, guardians of the galaxy vol. 3","2023-02-17, 2023-05-05"
-Dunki,the marvels,11/10/23
-Dunkirk,spider-man: homecoming,7/7/17
-Eddington,the fantastic four: first steps,7/25/25
-Eden,"captain america: brave new world, thunderbolts*","2025-02-14, 2025-05-02"
-Edge of Tomorrow,captain america: the winter soldier,4/4/14
-Eileen,the marvels,11/10/23
-Elemental,guardians of the galaxy vol. 3,5/5/23
-Elio,"the fantastic four: first steps, thunderbolts*","2025-05-02, 2025-07-25"
-Elvis,"doctor strange in the multiverse of madness, thor: love and thunder","2022-05-06, 2022-07-08"
-Emily the Criminal,thor: love and thunder,7/8/22
-Encanto,"eternals, shang-chi and the legend of the ten rings","2021-09-03, 2021-11-05"
-Ender's Game,thor: the dark world,11/8/13
-Epic,iron man 3,5/3/13
-Escape Plan,thor: the dark world,11/8/13
-Escape Room: Tournament of Champions,black widow,7/9/21
-Eternals,"eternals, spider-man: no way home","2021-11-05, 2021-12-17"
-Everest,ant-man,7/17/15
-Everything Everywhere All at Once,doctor strange in the multiverse of madness,5/6/22
-Evil Dead,iron man 3,5/3/13
-Evil Dead Rise,"ant-man and the wasp: quantumania, guardians of the galaxy vol. 3","2023-02-17, 2023-05-05"
-Expend4bles,the marvels,11/10/23
-Eye in the Sky,ant-man,7/17/15
-F1,"the fantastic four: first steps, thunderbolts*","2025-05-02, 2025-07-25"
-F9,black widow,7/9/21
-Fall,thor: love and thunder,7/8/22
-Fantastic Beasts and Where to Find Them,doctor strange,11/4/16
-Fantastic Beasts: The Secrets of Dumbledore,doctor strange in the multiverse of madness,5/6/22
-Fantastic Four,ant-man,7/17/15
-Fast & Furious Presents: Hobbs & Shaw,spider-man: far from home,7/2/19
-Fast X,guardians of the galaxy vol. 3,5/5/23
-Fences,doctor strange,11/4/16
-Ferrari,the marvels,11/10/23
-Fight or Flight,captain america: brave new world,2/14/25
-Fighting with My Family,captain marvel,3/8/19
-Filth,thor: the dark world,11/8/13
-Final Destination 5,captain america: the first avenger,7/22/11
-Final Destination Bloodlines,thunderbolts*,5/2/25
-Finding Dory,captain america: civil war,5/6/16
-First Reformed,ant-man and the wasp,7/6/18
-Five Feet Apart,captain marvel,3/8/19
-Five Nights at Freddy's,the marvels,11/10/23
-Flight Risk,captain america: brave new world,2/14/25
-Fly Me to the Moon,deadpool & wolverine,7/26/24
-Forgetting Sarah Marshall,"iron man, the incredible hulk","2008-05-02, 2008-06-13"
-Freakier Friday,the fantastic four: first steps,7/25/25
-Free Guy,"black widow, shang-chi and the legend of the ten rings","2021-07-09, 2021-09-03"
-Freelance,the marvels,11/10/23
-Friendship,thunderbolts*,5/2/25
-Fright Night,captain america: the first avenger,7/22/11
-Frozen,thor: the dark world,11/8/13
-Furious 7,avengers: age of ultron,5/1/15
-G.I. Joe: Retaliation,iron man 3,5/3/13
-Gabby's Dollhouse: The Movie,the fantastic four: first steps,7/25/25
-Game Changer,captain america: brave new world,2/14/25
-Game Night,black panther,2/16/18
-Geostorm,thor: ragnarok,11/3/17
-Get Hard,avengers: age of ultron,5/1/15
-Get Smart,"iron man, the incredible hulk","2008-05-02, 2008-06-13"
-Ghost in the Shell,guardians of the galaxy vol. 2,5/5/17
-Ghostbusters: Afterlife,"eternals, spider-man: no way home","2021-11-05, 2021-12-17"
-Glass,captain marvel,3/8/19
-Glass Onion: A Knives Out Mystery,black panther: wakanda forever,11/11/22
-Godzilla,captain america: the winter soldier,4/4/14
-Godzilla Minus One,the marvels,11/10/23
-Godzilla: King of the Monsters,"avengers: endgame, spider-man: far from home","2019-04-26, 2019-07-02"
-Going in Style,guardians of the galaxy vol. 2,5/5/17
-Good Boys,spider-man: far from home,7/2/19
-Good Time,spider-man: homecoming,7/7/17
-Goosebumps,ant-man,7/17/15
-Gravity,thor: the dark world,11/8/13
-Green Lantern,"captain america: the first avenger, thor","2011-05-06, 2011-07-22"
-Green Room,captain america: civil war,5/6/16
-Green Zone,iron man 2,5/7/10
-Grown Ups,iron man 2,5/7/10
-Guardians of the Galaxy,guardians of the galaxy,8/1/14
-Guardians of the Galaxy Vol. 2,guardians of the galaxy vol. 2,5/5/17
-Guardians of the Galaxy Vol. 3,guardians of the galaxy vol. 3,5/5/23
-Gunpowder Milkshake,"black widow, shang-chi and the legend of the ten rings","2021-07-09, 2021-09-03"
-Guy Ritchie's The Covenant,guardians of the galaxy vol. 3,5/5/23
-HIM,the fantastic four: first steps,7/25/25
-Hacksaw Ridge,doctor strange,11/4/16
-Halloween Ends,black panther: wakanda forever,11/11/22
-Halloween Kills,"eternals, shang-chi and the legend of the ten rings","2021-09-03, 2021-11-05"
-Hancock,"iron man, the incredible hulk","2008-05-02, 2008-06-13"
-Hanna,thor,5/6/11
-Happy Death Day,thor: ragnarok,11/3/17
-Happy Death Day 2U,captain marvel,3/8/19
-Hardcore Henry,ant-man,7/17/15
-Harold & Kumar Escape from Guantanamo Bay,the incredible hulk,6/13/08
-Harry Potter and the Deathly Hallows: Part 2,captain america: the first avenger,7/22/11
-Heart Eyes,captain america: brave new world,2/14/25
-Hellboy,captain marvel,3/8/19
-Hellboy II: The Golden Army,the incredible hulk,6/13/08
-Her,thor: the dark world,11/8/13
-Hercules,guardians of the galaxy,8/1/14
-Hereditary,"ant-man and the wasp, avengers: infinity war","2018-04-27, 2018-07-06"
-Hidden Figures,doctor strange,11/4/16
-Highest 2 Lowest,the fantastic four: first steps,7/25/25
-Hitman's Wife's Bodyguard,black widow,7/9/21
-Hitman: Agent 47,ant-man,7/17/15
-Home,avengers: age of ultron,5/1/15
-Homefront,thor: the dark world,11/8/13
-Honey Don't!,the fantastic four: first steps,7/25/25
-Horrible Bosses,captain america: the first avenger,7/22/11
-Horton Hears a Who!,iron man,5/2/08
-Hostiles,"black panther, thor: ragnarok","2017-11-03, 2018-02-16"
-Hot Tub Time Machine,iron man 2,5/7/10
-Hotel Artemis,ant-man and the wasp,7/6/18
-Hotel Mumbai,captain marvel,3/8/19
-Hotel Transylvania 3: Summer Vacation,ant-man and the wasp,7/6/18
-House of Gucci,"eternals, spider-man: no way home","2021-11-05, 2021-12-17"
-Housefull 5,the fantastic four: first steps,7/25/25
-How to Train Your Dragon,"iron man 2, the fantastic four: first steps, thunderbolts*","2010-05-07, 2025-05-02, 2025-07-25"
-How to Train Your Dragon 2,guardians of the galaxy,8/1/14
-Hunt for the Wilderpeople,captain america: civil war,5/6/16
-I Know What You Did Last Summer,the fantastic four: first steps,7/25/25
-I Spit on Your Grave,iron man 2,5/7/10
-I'm Still Here,deadpool & wolverine,7/26/24
-"I, Tonya",thor: ragnarok,11/3/17
-Ice Age: Continental Drift,the avengers,5/4/12
-In the Heights,black widow,7/9/21
-Incredibles 2,"ant-man and the wasp, avengers: infinity war","2018-04-27, 2018-07-06"
-Independence Day: Resurgence,captain america: civil war,5/6/16
-Indiana Jones and the Dial of Destiny,guardians of the galaxy vol. 3,5/5/23
-Indiana Jones and the Kingdom of the Crystal Skull,"iron man, the incredible hulk","2008-05-02, 2008-06-13"
-Inferno,doctor strange,11/4/16
-Infinity Pool,ant-man and the wasp: quantumania,2/17/23
-Inside Out,"ant-man, avengers: age of ultron","2015-05-01, 2015-07-17"
-Inside Out 2,deadpool & wolverine,7/26/24
-Insidious,thor,5/6/11
-Insidious: Chapter 2,thor: the dark world,11/8/13
-Insidious: Chapter 3,"ant-man, avengers: age of ultron","2015-05-01, 2015-07-17"
-Insurgent,avengers: age of ultron,5/1/15
-Iron Man,"iron man, the incredible hulk","2008-05-02, 2008-06-13"
-Iron Man 2,iron man 2,5/7/10
-Iron Man 3,iron man 3,5/3/13
-Isle of Dogs,"avengers: infinity war, black panther","2018-02-16, 2018-04-27"
-Isn't It Romantic,captain marvel,3/8/19
-It,thor: ragnarok,11/3/17
-It Comes at Night,guardians of the galaxy vol. 2,5/5/17
-It Ends with Us,deadpool & wolverine,7/26/24
-Jack Reacher: Never Go Back,doctor strange,11/4/16
-Jackass Presents: Bad Grandpa,thor: the dark world,11/8/13
-Jane Eyre,thor,5/6/11
-Jigsaw,thor: ragnarok,11/3/17
-John Carter,the avengers,5/4/12
-John Wick: Chapter 3 - Parabellum,"avengers: endgame, spider-man: far from home","2019-04-26, 2019-07-02"
-John Wick: Chapter 4,"ant-man and the wasp: quantumania, guardians of the galaxy vol. 3","2023-02-17, 2023-05-05"
-Johnny English Reborn,captain america: the first avenger,7/22/11
-Journey to the Center of the Earth,the incredible hulk,6/13/08
-Jumanji: Welcome to the Jungle,thor: ragnarok,11/3/17
-Jungle Cruise,"black widow, shang-chi and the legend of the ten rings","2021-07-09, 2021-09-03"
-Jurassic World,"ant-man, avengers: age of ultron","2015-05-01, 2015-07-17"
-Jurassic World Dominion,"doctor strange in the multiverse of madness, thor: love and thunder","2022-05-06, 2022-07-08"
-Jurassic World Rebirth,"the fantastic four: first steps, thunderbolts*","2025-05-02, 2025-07-25"
-Jurassic World: Fallen Kingdom,"ant-man and the wasp, avengers: infinity war","2018-04-27, 2018-07-06"
-Justice League,thor: ragnarok,11/3/17
-K.G.F: Chapter 2,doctor strange in the multiverse of madness,5/6/22
-KPop Demon Hunters,"the fantastic four: first steps, thunderbolts*","2025-05-02, 2025-07-25"
-Kalki 2898-AD,deadpool & wolverine,7/26/24
-Kantara,black panther: wakanda forever,11/11/22
-Karate Kid: Legends,thunderbolts*,5/2/25
-Kick-Ass,iron man 2,5/7/10
-Killers,iron man 2,5/7/10
-Killers of the Flower Moon,the marvels,11/10/23
-Kinds of Kindness,deadpool & wolverine,7/26/24
-King Arthur: Legend of the Sword,"guardians of the galaxy vol. 2, spider-man: homecoming","2017-05-05, 2017-07-07"
-King Richard,"eternals, spider-man: no way home","2021-11-05, 2021-12-17"
-Kingsman: The Golden Circle,thor: ragnarok,11/3/17
-Knight and Day,iron man 2,5/7/10
-Knock Knock,"ant-man, avengers: age of ultron","2015-05-01, 2015-07-17"
-Knock at the Cabin,ant-man and the wasp: quantumania,2/17/23
-Kong: Skull Island,guardians of the galaxy vol. 2,5/5/17
-Kung Fu Panda,"iron man, the incredible hulk","2008-05-02, 2008-06-13"
-Kung Fu Panda 2,"captain america: the first avenger, thor","2011-05-06, 2011-07-22"
-La La Land,doctor strange,11/4/16
-Lady Bird,spider-man: homecoming,7/7/17
-Last Breath,captain america: brave new world,2/14/25
-Last Night in Soho,"eternals, shang-chi and the legend of the ten rings, spider-man: no way home","2021-09-03, 2021-11-05, 2021-12-17"
-Last Vegas,thor: the dark world,11/8/13
-Legend,ant-man,7/17/15
-Leo,the marvels,11/10/23
-Let's Be Cops,guardians of the galaxy,8/1/14
-Letters to Juliet,iron man 2,5/7/10
-Life,guardians of the galaxy vol. 2,5/5/17
-Lightyear,"doctor strange in the multiverse of madness, thor: love and thunder","2022-05-06, 2022-07-08"
-Lilo & Stitch,thunderbolts*,5/2/25
-Limitless,thor,5/6/11
-Lion,doctor strange,11/4/16
-Living,black panther: wakanda forever,11/11/22
-Locke,captain america: the winter soldier,4/4/14
-Logan Lucky,spider-man: homecoming,7/7/17
-Lokah Chapter 1: Chandra,the fantastic four: first steps,7/25/25
-Lone Survivor,thor: the dark world,11/8/13
-Longlegs,deadpool & wolverine,7/26/24
-"Love, Simon",black panther,2/16/18
-Luca,black widow,7/9/21
-Lucy,guardians of the galaxy,8/1/14
-M3GAN,"ant-man and the wasp: quantumania, black panther: wakanda forever","2022-11-11, 2023-02-17"
-M3GAN 2.0,"the fantastic four: first steps, thunderbolts*","2025-05-02, 2025-07-25"
-Ma,spider-man: far from home,7/2/19
-MaXXXine,deadpool & wolverine,7/26/24
-Machete Kills,thor: the dark world,11/8/13
-Mad Max: Fury Road,avengers: age of ultron,5/1/15
-Madagascar 3: Europe's Most Wanted,the avengers,5/4/12
-Made of Honor,the incredible hulk,6/13/08
-Mahavatar Narsimha,the fantastic four: first steps,7/25/25
-Maleficent,captain america: the winter soldier,4/4/14
-Malignant,"black widow, shang-chi and the legend of the ten rings","2021-07-09, 2021-09-03"
-Mamma Mia! Here We Go Again,ant-man and the wasp,7/6/18
-Man of Steel,iron man 3,5/3/13
-Manchester by the Sea,doctor strange,11/4/16
-Martyrs,the incredible hulk,6/13/08
-Materialists,"the fantastic four: first steps, thunderbolts*","2025-05-02, 2025-07-25"
-May December,the marvels,11/10/23
-Maze Runner: The Death Cure,black panther,2/16/18
-Maze Runner: The Scorch Trials,ant-man,7/17/15
-Me Before You,captain america: civil war,5/6/16
-Men,"doctor strange in the multiverse of madness, thor: love and thunder","2022-05-06, 2022-07-08"
-Men in Black 3,the avengers,5/4/12
-Men in Black: International,"avengers: endgame, spider-man: far from home","2019-04-26, 2019-07-02"
-Mickey 17,captain america: brave new world,2/14/25
-Midsommar,spider-man: far from home,7/2/19
-Migration,the marvels,11/10/23
-Mile 22,ant-man and the wasp,7/6/18
-Minions,"ant-man, avengers: age of ultron","2015-05-01, 2015-07-17"
-Minions: The Rise of Gru,"doctor strange in the multiverse of madness, thor: love and thunder","2022-05-06, 2022-07-08"
-Miss Peregrine's Home for Peculiar Children,doctor strange,11/4/16
-Miss Sloane,doctor strange,11/4/16
-Missing,ant-man and the wasp: quantumania,2/17/23
-Mission: Impossible - Fallout,ant-man and the wasp,7/6/18
-Mission: Impossible - Rogue Nation,ant-man,7/17/15
-Mission: Impossible - The Final Reckoning,thunderbolts*,5/2/25
-Moana,doctor strange,11/4/16
-Molly's Game,thor: ragnarok,11/3/17
-Money Monster,captain america: civil war,5/6/16
-Monsters,iron man 2,5/7/10
-Monsters University,iron man 3,5/3/13
-Moonfall,spider-man: no way home,12/17/21
-Moonlight,doctor strange,11/4/16
-Morbius,doctor strange in the multiverse of madness,5/6/22
-Mr. Popper's Penguins,"captain america: the first avenger, thor","2011-05-06, 2011-07-22"
-Mud,iron man 3,5/3/13
-Mufasa: The Lion King,captain america: brave new world,2/14/25
-Murder on the Orient Express,thor: ragnarok,11/3/17
-Napoleon,the marvels,11/10/23
-Ne Zha 2,captain america: brave new world,2/14/25
-Nebraska,thor: the dark world,11/8/13
-Need for Speed,captain america: the winter soldier,4/4/14
-Nefarious,ant-man and the wasp: quantumania,2/17/23
-Neighbors,captain america: the winter soldier,4/4/14
-Neighbors 2: Sorority Rising,captain america: civil war,5/6/16
-Nerve,captain america: civil war,5/6/16
-Never Let Me Go,iron man 2,5/7/10
-Next Goal Wins,the marvels,11/10/23
-Night Swim,the marvels,11/10/23
-Nightmare Alley,"eternals, spider-man: no way home","2021-11-05, 2021-12-17"
-No Escape,ant-man,7/17/15
-No Hard Feelings,guardians of the galaxy vol. 3,5/5/23
-No Time to Die,"eternals, shang-chi and the legend of the ten rings","2021-09-03, 2021-11-05"
-Noah,captain america: the winter soldier,4/4/14
-Nobody 2,the fantastic four: first steps,7/25/25
-Nocturnal Animals,doctor strange,11/4/16
-Non-Stop,captain america: the winter soldier,4/4/14
-Nope,thor: love and thunder,7/8/22
-Nosferatu,captain america: brave new world,2/14/25
-Novocaine,"captain america: brave new world, thunderbolts*","2025-02-14, 2025-05-02"
-Now You See Me,iron man 3,5/3/13
-Now You See Me 2,captain america: civil war,5/6/16
-Oblivion,iron man 3,5/3/13
-Ocean's Eight,"ant-man and the wasp, avengers: infinity war","2018-04-27, 2018-07-06"
-Oculus,captain america: the winter soldier,4/4/14
-Office Christmas Party,doctor strange,11/4/16
-Old,"black widow, shang-chi and the legend of the ten rings","2021-07-09, 2021-09-03"
-Old Henry,eternals,11/5/21
-Oldboy,thor: the dark world,11/8/13
-Olympus Has Fallen,iron man 3,5/3/13
-One Battle After Another,the fantastic four: first steps,7/25/25
-Only God Forgives,iron man 3,5/3/13
-Only the Brave,thor: ragnarok,11/3/17
-Operation Finale,ant-man and the wasp,7/6/18
-Operation Fortune: Ruse de Guerre,"ant-man and the wasp: quantumania, black panther: wakanda forever","2022-11-11, 2023-02-17"
-Orphan: First Kill,thor: love and thunder,7/8/22
-Out of the Furnace,thor: the dark world,11/8/13
-Outlander,the incredible hulk,6/13/08
-Oz the Great and Powerful,iron man 3,5/3/13
-Pacific Rim: Uprising,"avengers: infinity war, black panther","2018-02-16, 2018-04-27"
-Paddington 2,thor: ragnarok,11/3/17
-Pain & Gain,iron man 3,5/3/13
-Paper Towns,"ant-man, avengers: age of ultron","2015-05-01, 2015-07-17"
-Parasite,"avengers: endgame, spider-man: far from home","2019-04-26, 2019-07-02"
-Passengers,doctor strange,11/4/16
-Paterson,doctor strange,11/4/16
-Pathaan,ant-man and the wasp: quantumania,2/17/23
-Patriots Day,doctor strange,11/4/16
-Pearl,black panther: wakanda forever,11/11/22
-Pet Sematary,captain marvel,3/8/19
-Philomena,thor: the dark world,11/8/13
-Pig,"black widow, shang-chi and the legend of the ten rings","2021-07-09, 2021-09-03"
-Pineapple Express,the incredible hulk,6/13/08
-Pirates of the Caribbean: Dead Men Tell No Tales,"guardians of the galaxy vol. 2, spider-man: homecoming","2017-05-05, 2017-07-07"
-Pirates of the Caribbean: On Stranger Tides,thor,5/6/11
-Pitch Perfect 2,avengers: age of ultron,5/1/15
-Pixels,ant-man,7/17/15
-Plane,ant-man and the wasp: quantumania,2/17/23
-Pok√©mon Detective Pikachu,"avengers: endgame, captain marvel, spider-man: far from home","2019-03-08, 2019-04-26, 2019-07-02"
-Pompeii,captain america: the winter soldier,4/4/14
-Ponniyin Selvan: Part I,black panther: wakanda forever,11/11/22
-Ponyo,the incredible hulk,6/13/08
-Poor Things,the marvels,11/10/23
-Power Rangers,guardians of the galaxy vol. 2,5/5/17
-Predestination,guardians of the galaxy,8/1/14
-Presence,captain america: brave new world,2/14/25
-Priest,thor,5/6/11
-Prince of Persia: The Sands of Time,iron man 2,5/7/10
-Priscilla,the marvels,11/10/23
-Prisoners,thor: the dark world,11/8/13
-Prometheus,the avengers,5/4/12
-Puss in Boots: The Last Wish,black panther: wakanda forever,11/11/22
-RRR,doctor strange in the multiverse of madness,5/6/22
-Rampage,"avengers: infinity war, black panther","2018-02-16, 2018-04-27"
-Raw,doctor strange,11/4/16
-Ready Player One,"avengers: infinity war, black panther","2018-02-16, 2018-04-27"
-Ready or Not,spider-man: far from home,7/2/19
-Red Notice,"eternals, spider-man: no way home","2021-11-05, 2021-12-17"
-Red Rain,the fantastic four: first steps,7/25/25
-Red Riding Hood,thor,5/6/11
-Red Sparrow,black panther,2/16/18
-Reminiscence,"black widow, shang-chi and the legend of the ten rings","2021-07-09, 2021-09-03"
-Renfield,"ant-man and the wasp: quantumania, guardians of the galaxy vol. 3","2023-02-17, 2023-05-05"
-Repo Men,iron man 2,5/7/10
-Resident Evil: Welcome to Raccoon City,eternals,11/5/21
-Ride Along,thor: the dark world,11/8/13
-Rio,thor,5/6/11
-Rio 2,captain america: the winter soldier,4/4/14
-Rise of the Planet of the Apes,captain america: the first avenger,7/22/11
-Robin Hood,iron man 2,5/7/10
-Robot Dreams,the marvels,11/10/23
-Rocketman,"avengers: endgame, spider-man: far from home","2019-04-26, 2019-07-02"
-Rogue One: A Star Wars Story,doctor strange,11/4/16
-Run All Night,avengers: age of ultron,5/1/15
-Salaar: Part 1 - Ceasefire,the marvels,11/10/23
-Saltburn,the marvels,11/10/23
-San Andreas,"ant-man, avengers: age of ultron","2015-05-01, 2015-07-17"
-Sanju,ant-man and the wasp,7/6/18
-Saving Mr. Banks,thor: the dark world,11/8/13
-Saw X,the marvels,11/10/23
-Scary Stories to Tell in the Dark,spider-man: far from home,7/2/19
-Scream,spider-man: no way home,12/17/21
-Scream 4,thor,5/6/11
-Scream VI,"ant-man and the wasp: quantumania, guardians of the galaxy vol. 3","2023-02-17, 2023-05-05"
-Searching,ant-man and the wasp,7/6/18
-Self/less,ant-man,7/17/15
-Sex and the City,"iron man, the incredible hulk","2008-05-02, 2008-06-13"
-Shang-Chi and the Legend of the Ten Rings,"black widow, shang-chi and the legend of the ten rings","2021-07-09, 2021-09-03"
-Shazam!,"avengers: endgame, captain marvel","2019-03-08, 2019-04-26"
-Shazam! Fury of the Gods,"ant-man and the wasp: quantumania, guardians of the galaxy vol. 3","2023-02-17, 2023-05-05"
-She Said,black panther: wakanda forever,11/11/22
-She's Out of My League,iron man 2,5/7/10
-Shrek Forever After,iron man 2,5/7/10
-Sicario: Day of the Soldado,ant-man and the wasp,7/6/18
-Silence,doctor strange,11/4/16
-Sin City: A Dame to Kill For,guardians of the galaxy,8/1/14
-Sing,doctor strange,11/4/16
-Sing 2,eternals,11/5/21
-Sinister,the avengers,5/4/12
-Sinners,thunderbolts*,5/2/25
-Skyscraper,ant-man and the wasp,7/6/18
-Smile,black panther: wakanda forever,11/11/22
-Smurfs,the fantastic four: first steps,7/25/25
-Snake Eyes: G.I. Joe Origins,black widow,7/9/21
-Snow White,"captain america: brave new world, thunderbolts*","2025-02-14, 2025-05-02"
-Snow White and the Huntsman,the avengers,5/4/12
-Snowden,doctor strange,11/4/16
-Society of the Snow,the marvels,11/10/23
-Solo: A Star Wars Story,"ant-man and the wasp, avengers: infinity war","2018-04-27, 2018-07-06"
-Sonic the Hedgehog 2,doctor strange in the multiverse of madness,5/6/22
-Sonic the Hedgehog 3,captain america: brave new world,2/14/25
-Sooryavanshi,eternals,11/5/21
-Sorry to Bother You,ant-man and the wasp,7/6/18
-"Sorry, Baby",the fantastic four: first steps,7/25/25
-Sound of Freedom,guardians of the galaxy vol. 3,5/5/23
-Source Code,thor,5/6/11
-Southpaw,avengers: age of ultron,5/1/15
-Space Jam: A New Legacy,"black widow, shang-chi and the legend of the ten rings","2021-07-09, 2021-09-03"
-Speak No Evil,doctor strange in the multiverse of madness,5/6/22
-Speed Racer,the incredible hulk,6/13/08
-Spencer,eternals,11/5/21
-Spider-Man: Across the Spider-Verse,guardians of the galaxy vol. 3,5/5/23
-Spider-Man: Far From Home,spider-man: far from home,7/2/19
-Spider-Man: Homecoming,spider-man: homecoming,7/7/17
-Spider-Man: No Way Home,"eternals, spider-man: no way home","2021-11-05, 2021-12-17"
-Splitsville,the fantastic four: first steps,7/25/25
-Spring Breakers,iron man 3,5/3/13
-Spy,avengers: age of ultron,5/1/15
-Star Trek Into Darkness,iron man 3,5/3/13
-Star Wars: The Clone Wars,the incredible hulk,6/13/08
-Star Wars: The Last Jedi,thor: ragnarok,11/3/17
-Step Brothers,the incredible hulk,6/13/08
-Stillwater,"black widow, shang-chi and the legend of the ten rings","2021-07-09, 2021-09-03"
-Straight Outta Compton,ant-man,7/17/15
-Strange Darling,deadpool & wolverine,7/26/24
-Strange World,black panther: wakanda forever,11/11/22
-Street Kings,iron man,5/2/08
-Sucker Punch,thor,5/6/11
-Sully,doctor strange,11/4/16
-Summer of 84,ant-man and the wasp,7/6/18
-Super 8,"captain america: the first avenger, thor","2011-05-06, 2011-07-22"
-Superman,the fantastic four: first steps,7/25/25
-Swiss Army Man,captain america: civil war,5/6/16
-Tag,ant-man and the wasp,7/6/18
-Ted,the avengers,5/4/12
-Ted 2,"ant-man, avengers: age of ultron","2015-05-01, 2015-07-17"
-Teenage Mutant Ninja Turtles,guardians of the galaxy,8/1/14
-Teenage Mutant Ninja Turtles: Out of the Shadows,captain america: civil war,5/6/16
-Terminator Genisys,"ant-man, avengers: age of ultron","2015-05-01, 2015-07-17"
-Terrifier,black panther,2/16/18
-Terrifier 2,black panther: wakanda forever,11/11/22
-Thanksgiving,the marvels,11/10/23
-The A-Team,iron man 2,5/7/10
-The Accountant,doctor strange,11/4/16
-The Accountant¬≤,thunderbolts*,5/2/25
-The Age of Adaline,avengers: age of ultron,5/1/15
-The Alto Knights,captain america: brave new world,2/14/25
-The Amateur,"captain america: brave new world, thunderbolts*","2025-02-14, 2025-05-02"
-The Amazing Spider-Man,the avengers,5/4/12
-The Amazing Spider-Man 2,captain america: the winter soldier,4/4/14
-The Angry Birds Movie,captain america: civil war,5/6/16
-The Assessment,captain america: brave new world,2/14/25
-The Autopsy of Jane Doe,doctor strange,11/4/16
-The Avengers,the avengers,5/4/12
-The BFG,captain america: civil war,5/6/16
-The Babadook,captain america: the winter soldier,4/4/14
-The Bad Guys,doctor strange in the multiverse of madness,5/6/22
-The Bad Guys 2,the fantastic four: first steps,7/25/25
-The Banshees of Inisherin,black panther: wakanda forever,11/11/22
-The Beekeeper,the marvels,11/10/23
-The Big Sick,guardians of the galaxy vol. 2,5/5/17
-The Bikeriders,deadpool & wolverine,7/26/24
-The Black Phone,"doctor strange in the multiverse of madness, thor: love and thunder","2022-05-06, 2022-07-08"
-The Bling Ring,iron man 3,5/3/13
-The Boogeyman,guardians of the galaxy vol. 3,5/5/23
-The Book Thief,thor: the dark world,11/8/13
-The Boss Baby,guardians of the galaxy vol. 2,5/5/17
-The Bounty Hunter,iron man 2,5/7/10
-The Boy in the Striped Pyjamas,"iron man, the incredible hulk","2008-05-02, 2008-06-13"
-The Boys in the Boat,the marvels,11/10/23
-The Brutalist,captain america: brave new world,2/14/25
-The Cabin in the Woods,the avengers,5/4/12
-The Call,iron man 3,5/3/13
-The Change-Up,captain america: the first avenger,7/22/11
-The Chronicles of Narnia: Prince Caspian,"iron man, the incredible hulk","2008-05-02, 2008-06-13"
-The Circle,guardians of the galaxy vol. 2,5/5/17
-The Color Purple,the marvels,11/10/23
-The Commuter,black panther,2/16/18
-The Conjuring 2,captain america: civil war,5/6/16
-The Conjuring: Last Rites,the fantastic four: first steps,7/25/25
-The Conjuring: The Devil Made Me Do It,black widow,7/9/21
-The Counselor,thor: the dark world,11/8/13
-The Creator,the marvels,11/10/23
-The Croods,iron man 3,5/3/13
-The Dark Knight,the incredible hulk,6/13/08
-The Dark Tower,spider-man: homecoming,7/7/17
-The Dead Don't Die,spider-man: far from home,7/2/19
-The Death of Stalin,thor: ragnarok,11/3/17
-The Descendants,captain america: the first avenger,7/22/11
-The Dictator,the avengers,5/4/12
-The Disaster Artist,guardians of the galaxy vol. 2,5/5/17
-The Edge of Seventeen,doctor strange,11/4/16
-The Equalizer,guardians of the galaxy,8/1/14
-The Equalizer 2,ant-man and the wasp,7/6/18
-The Expendables 3,guardians of the galaxy,8/1/14
-The Fabelmans,black panther: wakanda forever,11/11/22
-The Family,thor: the dark world,11/8/13
-The Fantastic 4: First Steps,the fantastic four: first steps,7/25/25
-The Farewell,spider-man: far from home,7/2/19
-The Fate of the Furious,guardians of the galaxy vol. 2,5/5/17
-The Fault in Our Stars,"captain america: the winter soldier, guardians of the galaxy","2014-04-04, 2014-08-01"
-The Flash,guardians of the galaxy vol. 3,5/5/23
-The Florida Project,thor: ragnarok,11/3/17
-The Forbidden Kingdom,the incredible hulk,6/13/08
-The Foreigner,thor: ragnarok,11/3/17
-The Forever Purge,black widow,7/9/21
-The Founder,doctor strange,11/4/16
-The Gift,ant-man,7/17/15
-The Girl on the Train,doctor strange,11/4/16
-The Grand Budapest Hotel,captain america: the winter soldier,4/4/14
-The Gray Man,thor: love and thunder,7/8/22
-The Great Gatsby,iron man 3,5/3/13
-The Great Wall,doctor strange,11/4/16
-The Greatest Showman,"black panther, thor: ragnarok","2017-11-03, 2018-02-16"
-The Green Knight,"black widow, shang-chi and the legend of the ten rings","2021-07-09, 2021-09-03"
-The Guard,captain america: the first avenger,7/22/11
-The Handmaiden,captain america: civil war,5/6/16
-The Hangover Part II,"captain america: the first avenger, thor","2011-05-06, 2011-07-22"
-The Hangover Part III,iron man 3,5/3/13
-The Happening,"iron man, the incredible hulk","2008-05-02, 2008-06-13"
-The Heat,iron man 3,5/3/13
-The Help,captain america: the first avenger,7/22/11
-The Hitman's Bodyguard,spider-man: homecoming,7/7/17
-The Hobbit: The Desolation of Smaug,thor: the dark world,11/8/13
-The Holdovers,the marvels,11/10/23
-The Host,iron man 3,5/3/13
-The Hunger Games,the avengers,5/4/12
-The Hunger Games: Catching Fire,thor: the dark world,11/8/13
-The Hunger Games: The Ballad of Songbirds & Snakes,the marvels,11/10/23
-The Hunt,the avengers,5/4/12
-The Huntsman: Winter's War,captain america: civil war,5/6/16
-The Hustle,spider-man: far from home,7/2/19
-The Incredible Hulk,"iron man, the incredible hulk","2008-05-02, 2008-06-13"
-The Invitation,captain america: civil war,5/6/16
-The Iron Claw,the marvels,11/10/23
-The Jungle Book,captain america: civil war,5/6/16
-The Karate Kid,iron man 2,5/7/10
-The Killer,the marvels,11/10/23
-The King's Man,"eternals, spider-man: no way home","2021-11-05, 2021-12-17"
-The Last Airbender,iron man 2,5/7/10
-The Last Duel,"eternals, shang-chi and the legend of the ten rings","2021-09-03, 2021-11-05"
-The Last Song,iron man 2,5/7/10
-The Legend of Tarzan,captain america: civil war,5/6/16
-The Lego Movie,captain america: the winter soldier,4/4/14
-The Lego Movie 2: The Second Part,captain marvel,3/8/19
-The Life of Chuck,"the fantastic four: first steps, thunderbolts*","2025-05-02, 2025-07-25"
-The Lincoln Lawyer,thor,5/6/11
-The Lion King,spider-man: far from home,7/2/19
-The Little Mermaid,guardians of the galaxy vol. 3,5/5/23
-The Long Walk,the fantastic four: first steps,7/25/25
-The Losers,iron man 2,5/7/10
-The Lost City,doctor strange in the multiverse of madness,5/6/22
-The Lost City of Z,guardians of the galaxy vol. 2,5/5/17
-The Lost Daughter,eternals,11/5/21
-The Love Guru,the incredible hulk,6/13/08
-The Magnificent Seven,doctor strange,11/4/16
-The Man from U.N.C.L.E.,ant-man,7/17/15
-The Marvels,the marvels,11/10/23
-The Matrix Resurrections,"eternals, spider-man: no way home","2021-11-05, 2021-12-17"
-The Maze Runner,guardians of the galaxy,8/1/14
-The Meg,ant-man and the wasp,7/6/18
-The Menu,black panther: wakanda forever,11/11/22
-The Midnight Meat Train,the incredible hulk,6/13/08
-The Monkey,captain america: brave new world,2/14/25
-The Mummy,"guardians of the galaxy vol. 2, spider-man: homecoming","2017-05-05, 2017-07-07"
-The Mummy: Tomb of the Dragon Emperor,"iron man, the incredible hulk","2008-05-02, 2008-06-13"
-The Naked Gun,the fantastic four: first steps,7/25/25
-The Neon Demon,captain america: civil war,5/6/16
-The Nice Guys,captain america: civil war,5/6/16
-The Northman,doctor strange in the multiverse of madness,5/6/22
-The Other Woman,captain america: the winter soldier,4/4/14
-The Phoenician Scheme,thunderbolts*,5/2/25
-The Place Beyond the Pines,iron man 3,5/3/13
-The Pope's Exorcist,"ant-man and the wasp: quantumania, guardians of the galaxy vol. 3","2023-02-17, 2023-05-05"
-The Post,"black panther, thor: ragnarok","2017-11-03, 2018-02-16"
-The Promise,doctor strange,11/4/16
-The Promised Land,the marvels,11/10/23
-The Purge,iron man 3,5/3/13
-The Purge: Election Year,captain america: civil war,5/6/16
-The Raid 2,captain america: the winter soldier,4/4/14
-The Ritual,thor: ragnarok,11/3/17
-The Roses,the fantastic four: first steps,7/25/25
-The Secret Agent,the fantastic four: first steps,7/25/25
-The Secret Life of Pets,captain america: civil war,5/6/16
-The Secret Life of Pets 2,spider-man: far from home,7/2/19
-The Secret Life of Walter Mitty,thor: the dark world,11/8/13
-The Senior,the fantastic four: first steps,7/25/25
-The Shallows,captain america: civil war,5/6/16
-The Shape of Water,thor: ragnarok,11/3/17
-The Smurfs,captain america: the first avenger,7/22/11
-The Spy Who Dumped Me,ant-man and the wasp,7/6/18
-The Strangers,"iron man, the incredible hulk","2008-05-02, 2008-06-13"
-The Substance,deadpool & wolverine,7/26/24
-The Suicide Squad,"black widow, shang-chi and the legend of the ten rings","2021-07-09, 2021-09-03"
-The Super Mario Bros. Movie,"ant-man and the wasp: quantumania, guardians of the galaxy vol. 3","2023-02-17, 2023-05-05"
-The Switch,iron man 2,5/7/10
-The Three Musketeers,captain america: the first avenger,7/22/11
-The Tomorrow War,"black widow, shang-chi and the legend of the ten rings","2021-07-09, 2021-09-03"
-The Tree of Life,thor,5/6/11
-The Twilight Saga: Eclipse,iron man 2,5/7/10
-The Ugly Stepsister,"captain america: brave new world, thunderbolts*","2025-02-14, 2025-05-02"
-The Unbearable Weight of Massive Talent,doctor strange in the multiverse of madness,5/6/22
-The Upside,captain marvel,3/8/19
-The Wailing,captain america: civil war,5/6/16
-The Watchers,deadpool & wolverine,7/26/24
-The Wave,iron man,5/2/08
-The Way Way Back,iron man 3,5/3/13
-The Whale,black panther: wakanda forever,11/11/22
-The Wild Robot,deadpool & wolverine,7/26/24
-The Woman King,black panther: wakanda forever,11/11/22
-The Woman in the Yard,captain america: brave new world,2/14/25
-The X Files: I Want to Believe,the incredible hulk,6/13/08
-This Is the End,iron man 3,5/3/13
-Thor,thor,5/6/11
-Thor: Love and Thunder,thor: love and thunder,7/8/22
-Thor: Ragnarok,thor: ragnarok,11/3/17
-Thor: The Dark World,thor: the dark world,11/8/13
-"Three Billboards Outside Ebbing, Missouri",thor: ragnarok,11/3/17
-Three Thousand Years of Longing,thor: love and thunder,7/8/22
-Thunderbolts*,thunderbolts*,5/2/25
-Thunivu,ant-man and the wasp: quantumania,2/17/23
-Tiger 3,the marvels,11/10/23
-Tinker Tailor Soldier Spy,captain america: the first avenger,7/22/11
-Together,the fantastic four: first steps,7/25/25
-Tomb Raider,"avengers: infinity war, black panther","2018-02-16, 2018-04-27"
-Tomorrowland,"ant-man, avengers: age of ultron","2015-05-01, 2015-07-17"
-Top Gun: Maverick,"doctor strange in the multiverse of madness, thor: love and thunder","2022-05-06, 2022-07-08"
-Toy Story 3,iron man 2,5/7/10
-Toy Story 4,"avengers: endgame, spider-man: far from home","2019-04-26, 2019-07-02"
-Trainwreck,ant-man,7/17/15
-Trance,iron man 3,5/3/13
-Transcendence,captain america: the winter soldier,4/4/14
-Transformers One,deadpool & wolverine,7/26/24
-Transformers: Age of Extinction,guardians of the galaxy,8/1/14
-Transformers: Dark of the Moon,"captain america: the first avenger, thor","2011-05-06, 2011-07-22"
-Transformers: Rise of the Beasts,guardians of the galaxy vol. 3,5/5/23
-Transformers: The Last Knight,"guardians of the galaxy vol. 2, spider-man: homecoming","2017-05-05, 2017-07-07"
-Trap,deadpool & wolverine,7/26/24
-Trolls,doctor strange,11/4/16
-Trolls Band Together,the marvels,11/10/23
-Tropic Thunder,the incredible hulk,6/13/08
-Twisters,deadpool & wolverine,7/26/24
-T√ÅR,black panther: wakanda forever,11/11/22
-Uncharted,spider-man: no way home,12/17/21
-Uncut Gems,spider-man: far from home,7/2/19
-Under the Silver Lake,ant-man and the wasp,7/6/18
-Until Dawn,thunderbolts*,5/2/25
-Upgrade,"ant-man and the wasp, avengers: infinity war","2018-04-27, 2018-07-06"
-Us,"avengers: endgame, captain marvel","2019-03-08, 2019-04-26"
-Vacation,ant-man,7/17/15
-Valerian and the City of a Thousand Planets,spider-man: homecoming,7/7/17
-Venom: Let There Be Carnage,"eternals, shang-chi and the legend of the ten rings","2021-09-03, 2021-11-05"
-Vikram,"doctor strange in the multiverse of madness, thor: love and thunder","2022-05-06, 2022-07-08"
-Violent Night,black panther: wakanda forever,11/11/22
-WALL¬∑E,"iron man, the incredible hulk","2008-05-02, 2008-06-13"
-Waltz with Bashir,the incredible hulk,6/13/08
-Wanted,"iron man, the incredible hulk","2008-05-02, 2008-06-13"
-War for the Planet of the Apes,spider-man: homecoming,7/7/17
-Warcraft,captain america: civil war,5/6/16
-Warrior,captain america: the first avenger,7/22/11
-Watcher,"doctor strange in the multiverse of madness, thor: love and thunder","2022-05-06, 2022-07-08"
-Water for Elephants,thor,5/6/11
-Weapons,the fantastic four: first steps,7/25/25
-West Side Story,"eternals, spider-man: no way home","2021-11-05, 2021-12-17"
-What Happened to Monday,spider-man: homecoming,7/7/17
-What Happens in Vegas,"iron man, the incredible hulk","2008-05-02, 2008-06-13"
-Where the Crawdads Sing,thor: love and thunder,7/8/22
-White House Down,iron man 3,5/3/13
-White Noise,black panther: wakanda forever,11/11/22
-Why Him?,doctor strange,11/4/16
-Wild Tales,guardians of the galaxy,8/1/14
-Wind River,spider-man: homecoming,7/7/17
-Winnie the Pooh: Blood and Honey,ant-man and the wasp: quantumania,2/17/23
-Winter's Bone,iron man 2,5/7/10
-Wish,the marvels,11/10/23
-Witchboard,the fantastic four: first steps,7/25/25
-Wolf Man,captain america: brave new world,2/14/25
-Women Talking,"ant-man and the wasp: quantumania, black panther: wakanda forever","2022-11-11, 2023-02-17"
-Wonder,thor: ragnarok,11/3/17
-Wonder Woman,"guardians of the galaxy vol. 2, spider-man: homecoming","2017-05-05, 2017-07-07"
-Wonka,the marvels,11/10/23
-World War Z,iron man 3,5/3/13
-Wrath of the Titans,the avengers,5/4/12
-X,doctor strange in the multiverse of madness,5/6/22
-X-Men: Apocalypse,captain america: civil war,5/6/16
-X-Men: Days of Future Past,captain america: the winter soldier,4/4/14
-Yesterday,spider-man: far from home,7/2/19
-You Don't Mess with the Zohan,"iron man, the incredible hulk","2008-05-02, 2008-06-13"
-Your Highness,thor,5/6/11
+﻿title,imdb_id
+"10,000 BC",tt0443649
+The Wave,tt1063669
+21,tt0478087
+Street Kings,tt0421073
+Forgetting Sarah Marshall,tt0800039
+The Forbidden Kingdom,tt0865556
+Outlander,tt0462465
+Harold & Kumar Escape from Guantanamo Bay,tt0481536
+Iron Man,tt0371746
+Made of Honor,tt0866439
+Speed Racer,tt0811080
+The Boy in the Striped Pyjamas,tt0914798
+What Happens in Vegas,tt1033643
+Blindness,tt0861689
+The Chronicles of Narnia: Prince Caspian,tt0499448
+Indiana Jones and the Kingdom of the Crystal Skull,tt0367882
+The Strangers,tt0482606
+Kung Fu Panda,tt0441773
+You Don't Mess with the Zohan,tt0960144
+The Happening,tt0949731
+Martyrs,tt1029234
+The Incredible Hulk,tt0800080
+Waltz with Bashir,tt1185616
+Wanted,tt0493464
+The Love Guru,tt0811138
+Hancock,tt0448157
+The Mummy: Tomb of the Dragon Emperor,tt0859163
+Journey to the Center of the Earth,tt0373051
+Hellboy II: The Golden Army,tt0411477
+The Dark Knight,tt0468569
+Ponyo,tt0876563
+The X Files: I Want to Believe,tt0443701
+Step Brothers,tt0838283
+Star Wars: The Clone Wars,tt1185834
+Pineapple Express,tt0910936
+The Midnight Meat Train,tt0805570
+Tropic Thunder,tt0942385
+Passengers,tt0449487
+Rampage,tt1337057
+Green Zone,tt0947810
+She's Out of My League,tt0815236
+The Bounty Hunter,tt1038919
+How to Train Your Dragon,tt0892769
+Never Let Me Go,tt1334260
+Repo Men,tt1053424
+Clash of the Titans,tt0800320
+Hot Tub Time Machine,tt1231587
+Kick-Ass,tt1250777
+The Last Song,tt1294226
+Date Night,tt1279935
+The Losers,tt0480255
+Iron Man 2,tt1228705
+A Nightmare on Elm Street,tt1179056
+The Switch,tt0889573
+Robin Hood,tt0955308
+Prince of Persia: The Sands of Time,tt0473075
+Shrek Forever After,tt0892791
+Killers,tt1103153
+The A-Team,tt0429493
+The Karate Kid,tt1155076
+Winter's Bone,tt1399683
+Knight and Day,tt1013743
+Toy Story 3,tt0435761
+I Spit on Your Grave,tt1242432
+Monsters,tt1470827
+The Twilight Saga: Eclipse,tt1325004
+Grown Ups,tt1375670
+The Last Airbender,tt0938283
+The Other Woman,tt1032825
+Battle: Los Angeles,tt1217613
+Red Riding Hood,tt1486185
+Jane Eyre,tt1229822
+Limitless,tt1219289
+The Lincoln Lawyer,tt1189340
+Sucker Punch,tt0978764
+Source Code,tt0945513
+Insidious,tt1591095
+Hanna,tt0993842
+Your Highness,tt1240982
+Scream 4,tt1262416
+Water for Elephants,tt1067583
+Thor,tt0800369
+Priest,tt0822847
+Attack the Block,tt1478964
+Bridesmaids,tt1478338
+Pirates of the Caribbean: On Stranger Tides,tt1298650
+Bad Teacher,tt1284575
+The Tree of Life,tt0478304
+Blitz,tt1297919
+Kung Fu Panda 2,tt1302011
+The Hangover Part II,tt1411697
+Beginners,tt1532503
+Super 8,tt1650062
+Cars 2,tt1216475
+Green Lantern,tt1133985
+Mr. Popper's Penguins,tt1396218
+Transformers: Dark of the Moon,tt1399103
+The Guard,tt1540133
+Horrible Bosses,tt1499658
+Harry Potter and the Deathly Hallows: Part 2,tt1201607
+Captain America: The First Avenger,tt0458339
+Cowboys & Aliens,tt0409847
+"Crazy, Stupid, Love.",tt1570728
+The Smurfs,tt0472181
+Rise of the Planet of the Apes,tt1318514
+The Change-Up,tt1488555
+The Help,tt1454029
+30 Minutes or Less,tt1622547
+Final Destination 5,tt1622979
+Conan the Barbarian,tt0816462
+Fright Night,tt1438176
+The Three Musketeers,tt1509767
+Contagion,tt1598778
+The Descendants,tt1033575
+Warrior,tt1291584
+Drive,tt0780504
+Johnny English Reborn,tt1634122
+Carnage,tt1692486
+Tinker Tailor Soldier Spy,tt1340800
+John Carter,tt0401729
+The Hunger Games,tt1392170
+21 Jump Street,tt1232829
+Wrath of the Titans,tt1646987
+Sinister,tt1922777
+Battleship,tt1440129
+The Cabin in the Woods,tt1259521
+The Avengers,tt0848228
+Dark Shadows,tt1077368
+The Dictator,tt1645170
+Men in Black 3,tt1409024
+Prometheus,tt1446714
+Snow White and the Huntsman,tt1735898
+Madagascar 3: Europe's Most Wanted,tt1277953
+The Hunt,tt2106476
+Brave,tt1217209
+The Amazing Spider-Man,tt0948470
+Ted,tt1637725
+Spring Breakers,tt2101441
+Oz the Great and Powerful,tt1623205
+The Call,tt1911644
+The Croods,tt0481499
+Olympus Has Fallen,tt2302755
+The Place Beyond the Pines,tt1817273
+The Host,tt1517260
+G.I. Joe: Retaliation,tt1583421
+Trance,tt1924429
+Before Midnight,tt2209418
+Evil Dead,tt1288558
+Oblivion,tt1483013
+42,tt0453562
+Iron Man 3,tt1300854
+Pain & Gain,tt1980209
+Mud,tt1935179
+Star Trek Into Darkness,tt1408101
+The Great Gatsby,tt1343092
+The Hangover Part III,tt1951261
+Now You See Me,tt1670345
+After Earth,tt1815862
+Only God Forgives,tt1602613
+The Purge,tt2184339
+The Way Way Back,tt1727388
+Man of Steel,tt0770828
+The Bling Ring,tt2132285
+This Is the End,tt1245492
+Monsters University,tt1453405
+World War Z,tt0816711
+Despicable Me 2,tt1690953
+The Heat,tt2404463
+White House Down,tt2334879
+Insidious: Chapter 2,tt2226417
+Machete Kills,tt2002718
+The Family,tt2404311
+Coherence,tt2866360
+Prisoners,tt1392214
+Nebraska,tt1821549
+Filth,tt1450321
+Cloudy with a Chance of Meatballs 2,tt1985966
+Gravity,tt1454468
+Escape Plan,tt1211956
+Captain Phillips,tt1535109
+Delivery Man,tt2387559
+Anna,tt1715336
+Carrie,tt1939659
+12 Years a Slave,tt2024544
+Jackass Presents: Bad Grandpa,tt3063516
+Ender's Game,tt1731141
+The Counselor,tt2193215
+Thor: The Dark World,tt1981115
+Last Vegas,tt1204975
+Philomena,tt2431286
+The Book Thief,tt0816442
+Homefront,tt2312718
+Out of the Furnace,tt1206543
+Oldboy,tt1321511
+The Hunger Games: Catching Fire,tt1951264
+Frozen,tt2294629
+Saving Mr. Banks,tt2140373
+American Hustle,tt1800241
+47 Ronin,tt1335975
+The Hobbit: The Desolation of Smaug,tt1170358
+Anchorman 2: The Legend Continues,tt1229340
+Her,tt1798709
+The Secret Life of Walter Mitty,tt0359950
+Lone Survivor,tt1091191
+August: Osage County,tt1322269
+Ride Along,tt1408253
+The Lego Movie,tt1490017
+3 Days to Kill,tt2172934
+Pompeii,tt1921064
+Non-Stop,tt2024469
+The Grand Budapest Hotel,tt2278388
+300: Rise of an Empire,tt1253863
+Noah,tt1959490
+Need for Speed,tt2369135
+Divergent,tt1840309
+Captain America: The Winter Soldier,tt1843866
+The Raid 2,tt2265171
+Oculus,tt2388715
+Locke,tt2692904
+The Amazing Spider-Man 2,tt1872181
+Transcendence,tt2209764
+Chef,tt2883512
+Neighbors,tt2004420
+Godzilla,tt0831387
+X-Men: Days of Future Past,tt1877832
+Blended,tt1086772
+A Million Ways to Die in the West,tt2557490
+The Babadook,tt2321549
+Edge of Tomorrow,tt1631867
+Maleficent,tt1587310
+The Fault in Our Stars,tt2582846
+22 Jump Street,tt2294449
+How to Train Your Dragon 2,tt1646971
+Transformers: Age of Extinction,tt2109248
+Begin Again,tt1980929
+Dawn of the Planet of the Apes,tt2103281
+Hercules,tt1267297
+Guardians of the Galaxy,tt2015381
+Teenage Mutant Ninja Turtles,tt1291150
+The Expendables 3,tt2333784
+Let's Be Cops,tt1924435
+Sin City: A Dame to Kill For,tt0458481
+Wild Tales,tt3011894
+Predestination,tt2397535
+The Maze Runner,tt1790864
+The Equalizer,tt0455944
+Chappie,tt1823672
+Cinderella,tt1661199
+Run All Night,tt2199571
+Home,tt2224026
+Insurgent,tt2908446
+Southpaw,tt1798684
+Get Hard,tt2561572
+Furious 7,tt2820852
+The Age of Adaline,tt1655441
+Avengers: Age of Ultron,tt2395427
+Spy,tt3079380
+Pitch Perfect 2,tt2848292
+Mad Max: Fury Road,tt1392190
+Tomorrowland,tt1964418
+San Andreas,tt2126355
+Insidious: Chapter 3,tt3195644
+Aloha,tt1243974
+Jurassic World,tt0369610
+Inside Out,tt2096673
+Minions,tt2293640
+Paper Towns,tt3622592
+Dope,tt3850214
+Terminator Genisys,tt1340138
+Ted 2,tt2637276
+Knock Knock,tt3605418
+Self/less,tt2140379
+Ant-Man,tt0478970
+Pixels,tt2120120
+Trainwreck,tt3152624
+Mission: Impossible - Rogue Nation,tt2381249
+Vacation,tt1524930
+Drishyam,tt4430212
+The Gift,tt4178092
+Fantastic Four,tt1502712
+Goosebumps,tt1051904
+Straight Outta Compton,tt1398426
+The Man from U.N.C.L.E.,tt1638355
+American Ultra,tt3316948
+Hitman: Agent 47,tt2679042
+No Escape,tt1781922
+Eye in the Sky,tt2057392
+Legend,tt3569230
+Life,tt2948840
+Maze Runner: The Scorch Trials,tt4046784
+Everest,tt2719848
+Beasts of No Nation,tt1365050
+Hardcore Henry,tt3072482
+Allegiant,tt3410834
+10 Cloverfield Lane,tt1179933
+Batman v Superman: Dawn of Justice,tt2975590
+Hunt for the Wilderpeople,tt4698684
+The Huntsman: Winter's War,tt2381991
+The Jungle Book,tt3040964
+The Invitation,tt2400463
+Green Room,tt4062536
+Captain America: Civil War,tt3498820
+Neighbors 2: Sorority Rising,tt4438848
+The Angry Birds Movie,tt1985949
+Money Monster,tt2241351
+The Wailing,tt5215952
+The Nice Guys,tt3799694
+X-Men: Apocalypse,tt3385516
+Alice Through the Looking Glass,tt2567026
+The Neon Demon,tt1974419
+Me Before You,tt2674426
+Teenage Mutant Ninja Turtles: Out of the Shadows,tt3949660
+The BFG,tt3691740
+The Handmaiden,tt4016934
+Now You See Me 2,tt3110958
+Don't Breathe,tt4160708
+The Conjuring 2,tt3065204
+Central Intelligence,tt1489889
+Finding Dory,tt2277860
+The Secret Life of Pets,tt2709768
+Independence Day: Resurgence,tt1628841
+Swiss Army Man,tt4034354
+The Shallows,tt4052882
+Nerve,tt3531824
+The Legend of Tarzan,tt0918940
+The Purge: Election Year,tt4094724
+Sully,tt3263904
+Bridget Jones's Baby,tt1473832
+The Magnificent Seven,tt2404435
+Snowden,tt3774114
+Miss Peregrine's Home for Peculiar Children,tt1935859
+Deepwater Horizon,tt1860357
+The Girl on the Train,tt3631112
+A Monster Calls,tt3416532
+Hacksaw Ridge,tt2119532
+Inferno,tt3062096
+Moana,tt3521164
+The Accountant,tt2140479
+Trolls,tt1679335
+Jack Reacher: Never Go Back,tt3393786
+Moonlight,tt4975722
+Doctor Strange,tt1211837
+Nocturnal Animals,tt4550098
+Arrival,tt2543164
+Raw,tt4954522
+Fantastic Beasts and Where to Find Them,tt3183660
+Paterson,tt5247022
+The Edge of Seventeen,tt1878870
+Allied,tt3640424
+Sing,tt3470600
+Lion,tt3741834
+The Founder,tt4276820
+Office Christmas Party,tt1711525
+La La Land,tt3783958
+The Promise,tt4776998
+Hidden Figures,tt4846340
+Patriots Day,tt4572514
+Rogue One: A Star Wars Story,tt3748528
+Collateral Beauty,tt4682786
+Fences,tt2671706
+The Great Wall,tt2034800
+Assassin's Creed,tt2094766
+The Autopsy of Jane Doe,tt3289956
+Why Him?,tt4501244
+Silence,tt0490215
+The Disaster Artist,tt3521126
+The Lost City of Z,tt1212428
+Beauty and the Beast,tt2771200
+Power Rangers,tt3717490
+The Boss Baby,tt3874544
+Ghost in the Shell,tt1219827
+The Big Sick,tt5462602
+Going in Style,tt2568862
+The Fate of the Furious,tt4630562
+Guardians of the Galaxy Vol. 2,tt3896198
+A Ghost Story,tt6265828
+The Circle,tt4287320
+Alien: Covenant,tt2316204
+King Arthur: Legend of the Sword,tt1972591
+Pirates of the Caribbean: Dead Men Tell No Tales,tt1790809
+Baywatch,tt1469304
+Wonder Woman,tt0451279
+The Mummy,tt2345759
+It Comes at Night,tt4695012
+Cars 3,tt3606752
+Despicable Me 3,tt3469046
+Transformers: The Last Knight,tt3371366
+Baby Driver,tt3890160
+Spider-Man: Homecoming,tt2250912
+War for the Planet of the Apes,tt3450958
+American Assassin,tt1961175
+Dunkirk,tt5013056
+Valerian and the City of a Thousand Planets,tt2239822
+Atomic Blonde,tt2406566
+Call Me by Your Name,tt5726616
+Annabelle: Creation,tt5140878
+The Dark Tower,tt1648190
+Wind River,tt5362988
+Good Time,tt4846232
+The Hitman's Bodyguard,tt1959563
+Logan Lucky,tt5439796
+American Made,tt3532216
+What Happened to Monday,tt1536537
+Lady Bird,tt4925292
+It,tt1396484
+Kingsman: The Golden Circle,tt4649466
+Only the Brave,tt3829920
+The Foreigner,tt1615160
+Thor: Ragnarok,tt3501632
+Blade Runner 2049,tt1856101
+The Florida Project,tt5649144
+The Ritual,tt5638642
+Geostorm,tt1981128
+Happy Death Day,tt5308322
+The Death of Stalin,tt4686844
+Jigsaw,tt3348730
+Coco,tt2380307
+Murder on the Orient Express,tt3402236
+Daddy's Home 2,tt5657846
+Paddington 2,tt4468740
+Wonder,tt2543472
+Justice League,tt0974015
+Darkest Hour,tt4555426
+The Shape of Water,tt5580390
+"Three Billboards Outside Ebbing, Missouri",tt5027774
+"I, Tonya",tt5580036
+Molly's Game,tt4209788
+Jumanji: Welcome to the Jungle,tt2283362
+Star Wars: The Last Jedi,tt2527336
+The Greatest Showman,tt1485796
+All the Money in the World,tt5294550
+Downsizing,tt1389072
+Hostiles,tt5478478
+The Post,tt6294822
+Maze Runner: The Death Cure,tt4500922
+The Commuter,tt1590193
+12 Strong,tt1413492
+Den of Thieves,tt1259528
+Terrifier,tt4281724
+Black Panther,tt1825683
+Game Night,tt2704998
+Red Sparrow,tt2873282
+"Love, Simon",tt5164432
+Annihilation,tt2798920
+Tomb Raider,tt1365519
+Blockers,tt2531344
+Pacific Rim: Uprising,tt2557478
+Isle of Dogs,tt5104604
+Ready Player One,tt1677720
+A Quiet Place,tt6644200
+Avengers: Infinity War,tt4154756
+Deadpool 2,tt5463162
+Solo: A Star Wars Story,tt3778644
+Burning,tt7282468
+First Reformed,tt6053438
+Tag,tt2854926
+Upgrade,tt6499752
+American Animals,tt6212478
+Jurassic World: Fallen Kingdom,tt4881806
+Hereditary,tt7784604
+Hotel Artemis,tt5834262
+Ocean's Eight,tt5164214
+Incredibles 2,tt3606756
+Sicario: Day of the Soldado,tt5052474
+Hotel Transylvania 3: Summer Vacation,tt5220122
+Sanju,tt6452574
+Ant-Man and the Wasp,tt5095030
+Sorry to Bother You,tt5688932
+Skyscraper,tt5758778
+Mamma Mia! Here We Go Again,tt6911608
+The Equalizer 2,tt3766354
+Mission: Impossible - Fallout,tt4912910
+Christopher Robin,tt4575576
+The Spy Who Dumped Me,tt6663582
+Under the Silver Lake,tt5691670
+BlacKkKlansman,tt7349662
+The Meg,tt4779682
+Summer of 84,tt5774450
+Crazy Rich Asians,tt3104988
+Mile 22,tt4560436
+Searching,tt7668870
+Operation Finale,tt5208252
+The Upside,tt1987680
+Glass,tt6823368
+Alita: Battle Angel,tt0437086
+The Lego Movie 2: The Second Part,tt3513498
+Happy Death Day 2U,tt8155288
+Isn't It Romantic,tt2452244
+Fighting with My Family,tt6513120
+Captain Marvel,tt4154664
+Five Feet Apart,tt6472976
+Hotel Mumbai,tt5461944
+Us,tt6857112
+Dumbo,tt3861390
+Shazam!,tt0448115
+Pet Sematary,tt0837563
+Hellboy,tt2274648
+After,tt4126476
+Avengers: Endgame,tt4154796
+Brightburn,tt7752126
+The Hustle,tt1298644
+John Wick: Chapter 3 - Parabellum,tt6146586
+The Dead Don't Die,tt8695030
+Rocketman,tt2066051
+Aladdin,tt6139732
+Booksmart,tt1489887
+The Secret Life of Pets 2,tt5113040
+Godzilla: King of the Monsters,tt3741700
+Ma,tt7958736
+Parasite,tt6751668
+Dark Phoenix,tt6565702
+Toy Story 4,tt1979376
+Annabelle Comes Home,tt8350360
+Yesterday,tt8079248
+Spider-Man: Far From Home,tt6320628
+Midsommar,tt8772262
+Crawl,tt8364368
+The Farewell,tt8637428
+The Lion King,tt6105098
+Fast & Furious Presents: Hobbs & Shaw,tt6806448
+Scary Stories to Tell in the Dark,tt3387520
+Good Boys,tt6977338
+Angel Has Fallen,tt6189022
+Ready or Not,tt7798634
+Uncut Gems,tt5727208
+Army of the Dead,tt0993840
+F9,tt5433138
+A Quiet Place Part II,tt8332922
+The Conjuring: The Devil Made Me Do It,tt7069210
+Cruella,tt3228774
+In the Heights,tt1321510
+Hitman's Wife's Bodyguard,tt8385148
+Luca,tt12801262
+The Forever Purge,tt10327252
+Escape Room: Tournament of Champions,tt9844522
+Black Widow,tt3480822
+Space Jam: A New Legacy,tt3554046
+Pig,tt11003218
+Old,tt10954652
+Snake Eyes: G.I. Joe Origins,tt8404256
+Jungle Cruise,tt0870154
+The Suicide Squad,tt6334354
+Stillwater,tt10696896
+The Green Knight,tt9243804
+Free Guy,tt6264654
+Don't Breathe 2,tt6246322
+CODA,tt10366460
+Drive My Car,tt14039582
+Reminiscence,tt3272066
+Candyman,tt9347730
+Malignant,tt3811906
+Shang-Chi and the Legend of the Ten Rings,tt9376612
+The Tomorrow War,tt9777666
+Copshop,tt5748448
+Dune,tt1160419
+No Time to Die,tt2382320
+Venom: Let There Be Carnage,tt7097896
+Old Henry,tt12731980
+Encanto,tt2953050
+The Last Duel,tt4244994
+Halloween Kills,tt10665338
+Last Night in Soho,tt9639470
+Antlers,tt7740510
+Army of Thieves,tt13024674
+Eternals,tt9032400
+Red Notice,tt7991608
+Spencer,tt12536294
+Sooryavanshi,tt9531772
+Belfast,tt12789558
+Ghostbusters: Afterlife,tt4513678
+King Richard,tt9620288
+House of Gucci,tt11214590
+Resident Evil: Welcome to Raccoon City,tt6920084
+Sing 2,tt6467266
+Nightmare Alley,tt7740496
+Don't Look Up,tt11286314
+West Side Story,tt3581652
+Spider-Man: No Way Home,tt10872600
+The Lost Daughter,tt9100054
+The Matrix Resurrections,tt10838180
+The King's Man,tt6856242
+Scream,tt11245972
+Death on the Nile,tt7657566
+Uncharted,tt1464335
+Ambulance,tt4998632
+Speak No Evil,tt14253846
+The Bad Guys,tt8115900
+X,tt13560574
+The Lost City,tt13320622
+Everything Everywhere All at Once,tt6710474
+RRR,tt8178634
+Morbius,tt5108870
+Sonic the Hedgehog 2,tt12412888
+Fantastic Beasts: The Secrets of Dumbledore,tt4123432
+The Northman,tt11138512
+K.G.F: Chapter 2,tt10698680
+The Unbearable Weight of Massive Talent,tt11291274
+Doctor Strange in the Multiverse of Madness,tt9419884
+Chip 'n Dale: Rescue Rangers,tt3513500
+Men,tt13841850
+Top Gun: Maverick,tt1745960
+Crimes of the Future,tt14549466
+Jurassic World Dominion,tt8041270
+Vikram,tt9179430
+Watcher,tt12004038
+Lightyear,tt10298810
+The Black Phone,tt7144666
+Elvis,tt3704428
+Minions: The Rise of Gru,tt5113044
+Thor: Love and Thunder,tt10648342
+The Gray Man,tt1649418
+Where the Crawdads Sing,tt9411972
+Nope,tt10954984
+DC League of Super-Pets,tt8912936
+Orphan: First Kill,tt11851548
+Bullet Train,tt12593682
+Bodies Bodies Bodies,tt8110652
+Fall,tt15325794
+Emily the Criminal,tt15255876
+Three Thousand Years of Longing,tt9198364
+Pearl,tt18925334
+The Woman King,tt8093700
+Don't Worry Darling,tt10731256
+Smile,tt15474916
+Amsterdam,tt10304142
+Bros,tt9731598
+Kantara,tt15327088
+Ponniyin Selvan: Part I,tt10701074
+Terrifier 2,tt10403420
+Halloween Ends,tt10665342
+Black Adam,tt6443346
+The Banshees of Inisherin,tt11813216
+Living,tt9051908
+Black Panther: Wakanda Forever,tt9114286
+The Fabelmans,tt14208870
+She Said,tt11198810
+The Menu,tt9764362
+Bones and All,tt10168670
+Glass Onion: A Knives Out Mystery,tt11564570
+Strange World,tt10298840
+White Noise,tt6160448
+Violent Night,tt12003946
+Puss in Boots: The Last Wish,tt3915174
+The Whale,tt13833688
+Avatar: The Way of Water,tt1630029
+Babylon,tt10640346
+Women Talking,tt13669038
+A Man Called Otto,tt7405458
+M3GAN,tt8760708
+Operation Fortune: Ruse de Guerre,tt7985704
+Thunivu,tt15163652
+Plane,tt5884796
+Missing,tt10855768
+Pathaan,tt12844910
+Winnie the Pooh: Blood and Honey,tt19623240
+Infinity Pool,tt10365998
+Knock at the Cabin,tt15679400
+BlackBerry,tt21867434
+Ant-Man and the Wasp: Quantumania,tt10954600
+Cocaine Bear,tt14209916
+Creed III,tt11145118
+65,tt12261776
+Scream VI,tt17663992
+Shazam! Fury of the Gods,tt10151854
+John Wick: Chapter 4,tt10366206
+Dungeons & Dragons: Honor Among Thieves,tt2906216
+"Are You There God? It's Me, Margaret.",tt9185206
+The Pope's Exorcist,tt13375076
+The Super Mario Bros. Movie,tt6718170
+Renfield,tt11358390
+Evil Dead Rise,tt13345606
+Beau Is Afraid,tt13521006
+Nefarious,tt14537248
+Guy Ritchie's The Covenant,tt4873118
+Guardians of the Galaxy Vol. 3,tt6791350
+Fast X,tt5433140
+The Little Mermaid,tt5971474
+Spider-Man: Across the Spider-Verse,tt9362722
+The Boogeyman,tt3427252
+Transformers: Rise of the Beasts,tt5090568
+The Flash,tt0439572
+Elemental,tt15789038
+No Hard Feelings,tt15671028
+Adipurush,tt12915716
+Indiana Jones and the Dial of Destiny,tt1462764
+Sound of Freedom,tt7599146
+A Haunting in Venice,tt22687790
+Dumb Money,tt13957560
+Expend4bles,tt3291150
+Saw X,tt21807222
+The Creator,tt11858890
+Freelance,tt15744298
+The Promised Land,tt20561198
+Trolls Band Together,tt14362112
+Leo,tt15654328
+Five Nights at Freddy's,tt4589218
+Priscilla,tt22041854
+The Holdovers,tt14849194
+Godzilla Minus One,tt23289160
+The Marvels,tt10676048
+Dream Scenario,tt21942866
+Tiger 3,tt18411490
+Wish,tt11304740
+The Hunger Games: The Ballad of Songbirds & Snakes,tt10545296
+May December,tt13651794
+Next Goal Wins,tt10767052
+Saltburn,tt17351924
+Thanksgiving,tt1448754
+Animal,tt13751694
+Eileen,tt5198890
+Migration,tt6495056
+Robot Dreams,tt13429870
+Wonka,tt6166392
+Poor Things,tt14230458
+Ferrari,tt3758542
+Aquaman and the Lost Kingdom,tt9663764
+Anyone But You,tt26047818
+Dunki,tt15428134
+Salaar: Part 1 - Ceasefire,tt13927994
+The Iron Claw,tt21064584
+All of Us Strangers,tt21192142
+The Color Purple,tt1200263
+Night Swim,tt9682428
+The Beekeeper,tt15314262
+Kinds of Kindness,tt22408160
+Bad Boys: Ride or Die,tt4919268
+The Watchers,tt26736843
+Inside Out 2,tt22022452
+The Bikeriders,tt21454134
+Despicable Me 4,tt7510222
+A Quiet Place: Day One,tt13433802
+Kalki 2898-AD,tt12735488
+MaXXXine,tt22048412
+Longlegs,tt23468450
+Twisters,tt12584954
+Deadpool & Wolverine,tt6263850
+Trap,tt26753003
+Borderlands,tt4978420
+It Ends with Us,tt10655524
+Alien: Romulus,tt18412256
+Strange Darling,tt22375054
+Beetlejuice Beetlejuice,tt2049403
+The Substance,tt17526714
+Transformers One,tt8864596
+The Wild Robot,tt29623480
+I'm Still Here,tt14961016
+Mufasa: The Lion King,tt13186482
+Sonic the Hedgehog 3,tt18259086
+The Brutalist,tt8999762
+Babygirl,tt30057084
+Nosferatu,tt5040012
+Den of Thieves 2: Pantera,tt8008948
+Game Changer,tt14209618
+Wolf Man,tt4216984
+Presence,tt28249919
+Companion,tt26584495
+Flight Risk,tt10078772
+Ne Zha 2,tt34956443
+Heart Eyes,tt32558992
+Bridget Jones: Mad About the Boy,tt32063050
+Captain America: Brave New World,tt14513804
+Chhaava,tt27922706
+The Monkey,tt27714946
+Last Breath,tt14403504
+Mickey 17,tt12299608
+The Ugly Stepsister,tt29344903
+Black Bag,tt30988739
+Novocaine,tt29603959
+Snow White,tt6208148
+The Alto Knights,tt21815562
+The Assessment,tt32768323
+A Working Man,tt9150192
+Death of a Unicorn,tt28443655
+The Woman in the Yard,tt31314296
+A Minecraft Movie,tt3566834
+Eden,tt23149780
+Fight or Flight,tt13652286
+The Amateur,tt0899043
+Drop,tt32149847
+Sinners,tt31193180
+Until Dawn,tt30955489
+Thunderbolts*,tt20969586
+Karate Kid: Legends,tt1674782
+Friendship,tt30505698
+Final Destination Bloodlines,tt9619824
+Lilo & Stitch,tt11655566
+Mission: Impossible - The Final Reckoning,tt9603208
+The Phoenician Scheme,tt30840798
+Bring Her Back,tt32246771
+Ballerina,tt7181546
+The Life of Chuck,tt12908150
+Materialists,tt30253473
+28 Years Later,tt10548174
+Elio,tt4900148
+KPop Demon Hunters,tt14205554
+M3GAN 2.0,tt26342662
+"Sorry, Baby",tt32843349
+Jurassic World Rebirth,tt31036941
+Smurfs,tt18069420
+Superman,tt5950044
+Eddington,tt31176520
+I Know What You Did Last Summer,tt4045450
+Demon Slayer: Kimetsu no Yaiba Infinity Castle,tt32820897
+The Fantastic 4: First Steps,tt10676052
+The Secret Agent,tt27847051
+The Bad Guys 2,tt30017619
+Mahavatar Narsimha,tt34365591
+Together,tt31184028
+The Naked Gun,tt3402138
+Weapons,tt26581740
+Freakier Friday,tt31956415
+Nobody 2,tt28996126
+Highest 2 Lowest,tt31194612
+Witchboard,tt2256055
+Americana,tt17676734
+Afterburn,tt1210027
+Honey Don't!,tt30645201
+Splitsville,tt33247023
+Red Rain,tt37997249
+Caught Stealing,tt1493274
+The Roses,tt31973693
+Lokah Chapter 1: Chandra,tt33372494
+The Conjuring: Last Rites,tt22898462
+Downton Abbey: The Grand Finale,tt31888477
+The Long Walk,tt10374610
+Gabby's Dollhouse: The Movie,tt32214143
+A Big Bold Beautiful Journey,tt13650700
+HIM,tt20990442
+The Senior,tt15431864
+One Battle After Another,tt30144839
+Detective Pikachu,tt5884052
+The Accountant 2,tt7068946
+Tár,tt14444726
+WALL-E,tt0910970

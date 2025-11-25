@@ -2,7 +2,7 @@
 # File: filter_movies.py
 # Author: Kartik Saravanan
 # Date: NOV 12 2025
-# Last Modified: NOV 14 2025
+# Last Modified: NOV 25 2025
 # Description: Filters a large movie list to find movies released ±60 days around each Marvel movie.
 # Supports multiple Marvel matches per movie entry.
 
@@ -21,6 +21,30 @@ output_file = os.path.join(root_dir, "data", "output", "csv", "filtered_movies.c
 date_window = 60  # days before/after Marvel release
 VOTE_FACTOR = 0.1
 POPULARITY_FACTOR = 0.15
+
+# === STREAMING SERVICE KEYWORDS (GLOBAL) ===
+STREAMING_KEYWORDS = [
+    # US majors
+    "netflix", "amazon", "prime video", "apple", "disney+", "hulu",
+    "hbo", "max original", "peacock", "paramount+",
+
+    # India
+    "hotstar", "zee5", "sonyliv", "jio cinema", "aha", "sun nxt",
+    "mx player", "eros now", "voot", "hoichoi",
+
+    # Korea
+    "tving", "wavve", "coupang", "kakao",
+
+    # Japan
+    "u-next", "abema", "wowow",
+
+    # China
+    "iqiyi", "youku", "tencent", "bilibili",
+
+    # Europe / LatAm
+    "sky studios", "viaplay", "canal+", "movistar+", "atresplayer",
+    "clarovideo"
+]
 
 
 # === LOAD DATA ===
@@ -103,6 +127,17 @@ for _, mrow in marvel_movies.iterrows():
         (nearby["imdb_votes"] >= vote_threshold) &
         (nearby["popularity"] >= pop_threshold)
     ]
+
+    # === STEP 4: FILTER OUT STREAMING-ONLY RELEASES (production_companies) ===
+    if "production_companies" in nearby.columns:
+        # Normalize
+        nearby["production_companies"] = nearby["production_companies"].fillna("").astype(str).str.lower()
+
+        # Build regex pattern
+        pattern = "|".join([kw.replace("+", "\\+") for kw in STREAMING_KEYWORDS])
+
+        # Remove entries containing streaming company markers
+        nearby = nearby[~nearby["production_companies"].str.contains(pattern, regex=True)]
 
     if not nearby.empty:
         nearby["marvel_movie"] = marvel_title
