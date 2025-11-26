@@ -65,7 +65,8 @@ def fetch_release_page(imdb_id, cursor=None):
 
 def fetch_all_attributes(imdb_id):
     """Scrape ALL release attributes for a movie (multi-page)."""
-    attributes = set()
+    attributes = {}
+
     cursor = None
 
     while True:
@@ -78,8 +79,13 @@ def fetch_all_attributes(imdb_id):
         for edge in edges:
             node = edge["node"]
             attrs = node.get("attributes", [])
-            for a in attrs:
-                attributes.add(a["text"].strip().lower())
+            if len(attrs) == 0:
+                label = "blank"
+                attributes[label] = attributes.get(label, 0) + 1
+            else:
+                for a in attrs:
+                    label = a["text"].strip().lower()
+                    attributes[label] = attributes.get(label, 0) + 1
 
         # Stop if no more pages
         if not page_info["hasNextPage"]:
@@ -88,7 +94,7 @@ def fetch_all_attributes(imdb_id):
         cursor = page_info["endCursor"]
         time.sleep(0.2)
 
-    return sorted(attributes)
+    return attributes
 
 
 # === Load Input CSV ===
@@ -117,19 +123,19 @@ for _, row in tqdm(df.iterrows(), total=len(df)):
 
     # Cache hit
     if imdb_id in cache:
-        attributes = cache[imdb_id]
+        attributes = cache[imdb_id]  # now a dict of counts
     else:
         try:
             attributes = fetch_all_attributes(imdb_id)
         except Exception as e:
             print(f"⚠️ Error fetching {imdb_id}: {e}")
-            attributes = []
+            attributes = {}
 
         cache[imdb_id] = attributes
 
     results.append({
         "title": title,
-        "attributes": ", ".join(attributes)
+        "attributes": ", ".join([f"{label} ({count})" for label, count in attributes.items()])
     })
 
 # === Save Cache ===
