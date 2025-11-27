@@ -1,0 +1,835 @@
+﻿title,blank,internet,total,internet_total_ratio,internet_dominance
+Rampage,1,1,19,0.05,no
+Americana,1,0,4,0.00,no
+Red Rain,1,0,1,0.00,no
+Lokah Chapter 1: Chandra,2,1,9,0.11,no
+The Senior,3,0,4,0.00,no
+Anna,4,2,15,0.13,no
+Friendship,4,2,20,0.10,no
+Witchboard,4,0,5,0.00,no
+Eileen,5,5,27,0.19,no
+Watcher,6,5,33,0.15,no
+"Are You There God? It's Me, Margaret.",6,6,21,0.29,no
+Chhaava,6,1,10,0.10,no
+Mahavatar Narsimha,6,3,11,0.27,no
+Coherence,7,3,46,0.07,no
+42,8,2,27,0.07,no
+Summer of 84,8,1,38,0.03,no
+Game Changer,8,1,10,0.10,no
+Vikram,9,4,17,0.24,no
+Pearl,9,4,41,0.10,no
+Kantara,9,4,20,0.20,no
+Animal,9,2,13,0.15,no
+The Other Woman,10,0,21,0.00,no
+Sooryavanshi,10,4,26,0.15,no
+Thunivu,10,3,14,0.21,no
+Adipurush,10,6,20,0.30,no
+Heart Eyes,10,3,16,0.19,no
+Martyrs,11,0,60,0.00,no
+Dope,11,2,39,0.05,no
+First Reformed,11,1,55,0.02,no
+Infinity Pool,11,2,22,0.09,no
+Salaar: Part 1 - Ceasefire,11,1,19,0.05,no
+Honey Don't!,11,1,17,0.06,no
+Hunt for the Wilderpeople,12,5,71,0.07,no
+Sorry to Bother You,12,5,43,0.12,no
+Speak No Evil,12,2,41,0.05,no
+Death of a Unicorn,12,4,25,0.16,no
+I Spit on Your Grave,13,1,46,0.02,no
+Ponniyin Selvan: Part I,13,1,16,0.06,no
+Nefarious,13,3,19,0.16,no
+Leo,13,4,21,0.19,no
+Harold & Kumar Escape from Guantanamo Bay,14,1,26,0.04,no
+Swiss Army Man,14,2,61,0.03,no
+Raw,14,3,79,0.04,no
+Dunki,14,2,19,0.11,no
+The Secret Agent,14,0,64,0.00,no
+Tiger 3,15,2,18,0.11,no
+The Woman in the Yard,15,3,24,0.13,no
+Eden,15,11,30,0.37,no
+The Midnight Meat Train,16,2,52,0.04,no
+Green Room,16,1,73,0.01,no
+Fences,16,5,41,0.12,no
+A Ghost Story,16,1,56,0.02,no
+BlackBerry,16,6,43,0.14,no
+The Alto Knights,16,6,23,0.26,no
+American Animals,17,1,51,0.02,no
+K.G.F: Chapter 2,18,2,23,0.09,no
+Bodies Bodies Bodies,18,9,39,0.23,no
+Living,18,2,60,0.03,no
+Ride Along,19,2,32,0.06,no
+The Edge of Seventeen,19,7,40,0.18,no
+Sanju,19,2,26,0.08,no
+Last Breath,19,5,27,0.19,no
+Repo Men,20,2,36,0.06,no
+Aloha,20,5,34,0.15,no
+RRR,20,10,52,0.19,no
+The Guard,21,0,41,0.00,no
+Predestination,21,2,53,0.04,no
+The Wailing,21,2,64,0.03,no
+All of Us Strangers,21,2,59,0.03,no
+Outlander,22,0,41,0.00,no
+Mud,22,0,40,0.00,no
+Filth,22,3,44,0.07,no
+Life,22,1,36,0.03,no
+"Sorry, Baby",22,2,46,0.04,no
+Passengers,23,0,35,0.00,no
+Your Highness,23,2,35,0.06,no
+Attack the Block,23,0,48,0.00,no
+Upgrade,23,4,49,0.08,no
+Pig,23,6,56,0.11,no
+The Love Guru,24,0,30,0.00,no
+Beginners,24,0,42,0.00,no
+Out of the Furnace,24,2,39,0.05,no
+Kalki 2898-AD,24,3,31,0.10,no
+The Wave,25,0,51,0.00,no
+30 Minutes or Less,25,1,37,0.03,no
+Warrior,25,3,42,0.07,no
+The Babadook,25,1,76,0.01,no
+What Happened to Monday,25,10,48,0.21,no
+Stillwater,25,7,42,0.17,no
+Monsters,26,1,55,0.02,no
+The Autopsy of Jane Doe,26,2,69,0.03,no
+Terrifier 2,26,4,38,0.11,no
+Guy Ritchie's The Covenant,26,13,40,0.33,no
+The Promised Land,26,0,46,0.00,no
+Fight or Flight,26,8,39,0.21,no
+Eddington,26,1,39,0.03,no
+Waltz with Bashir,27,0,70,0.00,no
+The Way Way Back,27,0,50,0.00,no
+Hostiles,27,0,45,0.00,no
+Under the Silver Lake,27,1,51,0.02,no
+X,27,1,39,0.03,no
+Crimes of the Future,27,5,68,0.07,no
+Locke,28,0,62,0.00,no
+It Comes at Night,28,2,38,0.05,no
+Freelance,28,6,34,0.18,no
+The Color Purple,28,2,42,0.05,no
+Pineapple Express,29,4,53,0.08,no
+Only God Forgives,29,0,45,0.00,no
+Anchorman 2: The Legend Continues,29,0,45,0.00,no
+The Raid 2,29,1,61,0.02,no
+The Farewell,29,1,59,0.02,no
+Bros,29,2,45,0.04,no
+May December,29,9,71,0.13,no
+Strange Darling,29,2,47,0.04,no
+The Losers,30,2,47,0.04,no
+Drive My Car,30,3,85,0.04,no
+Women Talking,30,2,66,0.03,no
+Robot Dreams,30,0,75,0.00,no
+The Boy in the Striped Pyjamas,31,6,55,0.11,no
+Blitz,31,1,43,0.02,no
+Jackass Presents: Bad Grandpa,31,3,51,0.06,no
+Pathaan,31,3,40,0.08,no
+MaXXXine,31,1,42,0.02,no
+Never Let Me Go,32,1,64,0.02,no
+Winter's Bone,32,0,73,0.00,no
+The Dead Don't Die,32,3,57,0.05,no
+Fall,32,5,42,0.12,no
+Godzilla Minus One,32,7,70,0.10,no
+Nebraska,33,0,64,0.00,no
+The Promise,33,0,43,0.00,no
+Belfast,33,1,73,0.01,no
+The Iron Claw,33,3,44,0.07,no
+Kinds of Kindness,33,3,55,0.05,no
+Burning,34,0,155,0.00,no
+Booksmart,34,2,49,0.04,no
+Men,34,2,44,0.05,no
+Orphan: First Kill,34,2,54,0.04,no
+Bones and All,34,2,53,0.04,no
+The Ugly Stepsister,34,1,54,0.02,no
+Get Hard,35,2,45,0.04,no
+The Handmaiden,35,4,109,0.04,no
+The Disaster Artist,35,0,68,0.00,no
+Good Time,35,2,75,0.03,no
+The Death of Stalin,35,0,59,0.00,no
+Fighting with My Family,35,1,44,0.02,no
+Blindness,36,0,59,0.00,no
+Step Brothers,36,1,49,0.02,no
+The Last Song,36,1,42,0.02,no
+Oldboy,36,0,48,0.00,no
+Knock Knock,36,2,55,0.04,no
+The Holdovers,36,1,74,0.01,no
+Dream Scenario,36,1,66,0.02,no
+Jane Eyre,37,0,59,0.00,no
+The Hunt,37,1,84,0.01,no
+Spring Breakers,37,0,75,0.00,no
+Oculus,37,4,69,0.06,no
+Paterson,37,1,84,0.01,no
+Copshop,37,8,47,0.17,no
+The Whale,37,1,67,0.01,no
+Dumb Money,37,0,43,0.00,no
+T√°r,37,1,59,0.02,no
+Forgetting Sarah Marshall,38,3,50,0.06,no
+Ponyo,38,4,70,0.06,no
+Homefront,38,1,51,0.02,no
+Straight Outta Compton,38,2,50,0.04,no
+American Ultra,38,0,44,0.00,no
+BlacKkKlansman,38,1,69,0.01,no
+The Green Knight,38,9,56,0.16,no
+Evil Dead Rise,38,2,44,0.05,no
+Priscilla,38,2,64,0.03,no
+Next Goal Wins,38,1,44,0.02,no
+Thanksgiving,38,1,43,0.02,no
+The Bikeriders,38,1,57,0.02,no
+The Phoenician Scheme,38,1,43,0.02,no
+Hot Tub Time Machine,39,0,50,0.00,no
+Trance,39,0,47,0.00,no
+The Big Sick,39,1,64,0.02,no
+Three Thousand Years of Longing,39,4,58,0.07,no
+The Banshees of Inisherin,39,4,94,0.04,no
+She Said,39,1,67,0.01,no
+Anyone But You,39,1,42,0.02,no
+Night Swim,39,2,46,0.04,no
+The Watchers,39,1,47,0.02,no
+Trap,39,1,44,0.02,no
+I Know What You Did Last Summer,39,0,39,0.00,no
+Red Riding Hood,40,2,56,0.04,no
+Hardcore Henry,40,1,54,0.02,no
+Only the Brave,40,2,48,0.04,no
+Tag,40,3,46,0.07,no
+In the Heights,40,3,49,0.06,no
+Amsterdam,40,2,49,0.04,no
+Beau Is Afraid,40,2,52,0.04,no
+Ferrari,40,6,54,0.11,no
+Drop,40,2,47,0.04,no
+The Accountant 2,40,3,49,0.06,no
+The Gift,41,2,55,0.04,no
+Eye in the Sky,41,3,63,0.05,no
+The Purge: Election Year,41,2,49,0.04,no
+Hotel Artemis,41,0,46,0.00,no
+The Upside,41,5,55,0.09,no
+Smile,41,2,49,0.04,no
+The Boogeyman,41,1,43,0.02,no
+Poor Things,41,4,91,0.04,no
+Borderlands,41,2,48,0.04,no
+The Strangers,42,2,51,0.04,no
+The Switch,42,0,50,0.00,no
+The Cabin in the Woods,42,0,67,0.00,no
+The Founder,42,2,55,0.04,no
+The Forever Purge,42,4,55,0.07,no
+Don't Worry Darling,42,2,51,0.04,no
+Winnie the Pooh: Blood and Honey,42,3,56,0.05,no
+The Pope's Exorcist,42,0,43,0.00,no
+Den of Thieves 2: Pantera,42,3,47,0.06,no
+Presence,42,1,58,0.02,no
+Flight Risk,42,2,47,0.04,no
+Until Dawn,42,1,45,0.02,no
+Together,42,0,52,0.00,no
+Afterburn,42,2,45,0.04,no
+She's Out of My League,43,3,51,0.06,no
+The Change-Up,43,2,54,0.04,no
+Fright Night,43,1,54,0.02,no
+Tinker Tailor Soldier Spy,43,0,56,0.00,no
+The Place Beyond the Pines,43,0,53,0.00,no
+Before Midnight,43,0,71,0.00,no
+Delivery Man,43,1,47,0.02,no
+No Escape,43,3,51,0.06,no
+The Florida Project,43,2,99,0.02,no
+Blockers,43,1,46,0.02,no
+Knock at the Cabin,43,1,55,0.02,no
+The Substance,43,2,79,0.03,no
+I'm Still Here,43,0,89,0.00,no
+Wolf Man,43,1,49,0.02,no
+A Working Man,43,4,49,0.08,no
+Splitsville,43,0,51,0.00,no
+Date Night,44,0,53,0.00,no
+Conan the Barbarian,44,0,53,0.00,no
+Philomena,44,1,69,0.01,no
+The Neon Demon,44,1,70,0.01,no
+Hidden Figures,44,1,52,0.02,no
+Call Me by Your Name,44,0,116,0.00,no
+"Love, Simon",44,1,64,0.02,no
+After,44,4,49,0.08,no
+Fantastic Beasts: The Secrets of Dumbledore,44,1,46,0.02,no
+The Menu,44,3,71,0.04,no
+A Man Called Otto,44,0,49,0.00,no
+Plane,44,1,48,0.02,no
+Scream VI,44,2,54,0.04,no
+Dungeons & Dragons: Honor Among Thieves,44,4,58,0.07,no
+It Ends with Us,44,1,46,0.02,no
+Babygirl,44,1,53,0.02,no
+The Lincoln Lawyer,45,3,53,0.06,no
+Insidious,45,0,55,0.00,no
+Bad Teacher,45,4,54,0.07,no
+Carnage,45,0,61,0.00,no
+Machete Kills,45,1,49,0.02,no
+Chef,45,1,65,0.02,no
+Wild Tales,45,0,94,0.00,no
+Self/less,45,1,50,0.02,no
+Wind River,45,2,74,0.03,no
+Hotel Mumbai,45,4,73,0.05,no
+Ma,45,1,49,0.02,no
+Good Boys,45,1,49,0.02,no
+Luca,45,25,75,0.33,no
+Antlers,45,1,54,0.02,no
+Spencer,45,1,76,0.01,no
+The Unbearable Weight of Massive Talent,45,3,54,0.06,no
+Doctor Strange in the Multiverse of Madness,45,1,47,0.02,no
+Black Adam,45,0,45,0.00,no
+Black Panther: Wakanda Forever,45,2,49,0.04,no
+Violent Night,45,3,50,0.06,no
+Creed III,45,1,48,0.02,no
+Companion,45,1,50,0.02,no
+Bridget Jones: Mad About the Boy,45,2,47,0.04,no
+August: Osage County,46,1,71,0.01,no
+Nocturnal Animals,46,3,76,0.04,no
+Going in Style,46,0,52,0.00,no
+Midsommar,46,0,60,0.00,no
+King Richard,46,3,66,0.05,no
+Resident Evil: Welcome to Raccoon City,46,5,56,0.09,no
+Migration,46,1,53,0.02,no
+Bad Boys: Ride or Die,46,1,57,0.02,no
+Killers,47,0,56,0.00,no
+Hanna,47,1,61,0.02,no
+Contagion,47,0,64,0.00,no
+The Circle,47,1,51,0.02,no
+Don't Breathe 2,47,4,52,0.08,no
+Where the Crawdads Sing,47,0,52,0.00,no
+Operation Fortune: Ruse de Guerre,47,7,57,0.12,no
+Missing,47,4,53,0.08,no
+Expend4bles,47,1,55,0.02,no
+Longlegs,47,1,63,0.02,no
+Novocaine,47,1,51,0.02,no
+You Don't Mess with the Zohan,48,1,56,0.02,no
+The Tree of Life,48,1,70,0.01,no
+"Crazy, Stupid, Love.",48,2,59,0.03,no
+Drive,48,1,74,0.01,no
+3 Days to Kill,48,2,55,0.04,no
+Moonlight,48,2,86,0.02,no
+Molly's Game,48,1,66,0.02,no
+Shazam! Fury of the Gods,48,2,54,0.04,no
+No Hard Feelings,48,6,54,0.11,no
+The Brutalist,48,1,97,0.01,no
+Black Bag,48,3,62,0.05,no
+M3GAN 2.0,48,0,51,0.00,no
+Street Kings,49,0,59,0.00,no
+The Forbidden Kingdom,49,2,61,0.03,no
+Speed Racer,49,0,59,0.00,no
+What Happens in Vegas,49,1,60,0.02,no
+Star Wars: The Clone Wars,49,2,60,0.03,no
+Final Destination 5,49,2,68,0.03,no
+Johnny English Reborn,49,3,57,0.05,no
+The Grand Budapest Hotel,49,2,78,0.03,no
+A Million Ways to Die in the West,49,1,56,0.02,no
+The Age of Adaline,49,1,53,0.02,no
+Legend,49,0,57,0.00,no
+Mile 22,49,0,53,0.00,no
+The Last Duel,49,1,59,0.02,no
+Nightmare Alley,49,2,61,0.03,no
+Top Gun: Maverick,49,1,71,0.01,no
+Renfield,49,2,59,0.03,no
+The Flash,49,2,51,0.04,no
+The Beekeeper,49,3,55,0.05,no
+The Monkey,49,2,59,0.03,no
+Final Destination Bloodlines,49,2,62,0.03,no
+Tropic Thunder,50,0,64,0.00,no
+The Call,50,0,57,0.00,no
+The Bling Ring,50,0,67,0.00,no
+The Counselor,50,1,60,0.02,no
+Snowden,50,1,66,0.02,no
+Lady Bird,50,0,80,0.00,no
+Daddy's Home 2,50,5,58,0.09,no
+"I, Tonya",50,0,88,0.00,no
+12 Strong,50,0,57,0.00,no
+Den of Thieves,50,2,61,0.03,no
+Game Night,50,3,54,0.06,no
+Happy Death Day 2U,50,0,52,0.00,no
+Ready or Not,50,0,59,0.00,no
+Jungle Cruise,50,5,59,0.08,no
+Reminiscence,50,3,61,0.05,no
+Malignant,50,4,55,0.07,no
+Death on the Nile,50,1,55,0.02,no
+Everything Everywhere All at Once,50,5,86,0.06,no
+The Fabelmans,50,1,74,0.01,no
+The Hunger Games: The Ballad of Songbirds & Snakes,50,0,54,0.00,no
+Wonka,50,2,56,0.04,no
+A Quiet Place: Day One,50,1,57,0.02,no
+Karate Kid: Legends,50,0,57,0.00,no
+Limitless,51,0,58,0.00,no
+Horrible Bosses,51,1,60,0.02,no
+The Three Musketeers,51,1,57,0.02,no
+Sinister,51,1,62,0.02,no
+Last Vegas,51,0,55,0.00,no
+Lone Survivor,51,1,63,0.02,no
+Non-Stop,51,0,57,0.00,no
+Neighbors 2: Sorority Rising,51,0,56,0.00,no
+Lion,51,0,79,0.00,no
+Logan Lucky,51,0,64,0.00,no
+Happy Death Day,51,2,64,0.03,no
+Isle of Dogs,51,0,69,0.00,no
+Hereditary,51,0,60,0.00,no
+Space Jam: A New Legacy,51,4,57,0.07,no
+Candyman,51,0,55,0.00,no
+The Lost City,51,3,58,0.05,no
+Morbius,51,2,55,0.04,no
+DC League of Super-Pets,51,1,56,0.02,no
+Babylon,51,2,58,0.03,no
+A Minecraft Movie,51,2,55,0.04,no
+The Happening,52,0,61,0.00,no
+Hellboy II: The Golden Army,52,0,59,0.00,no
+Priest,52,1,56,0.02,no
+The Help,52,1,74,0.01,no
+47 Ronin,52,2,59,0.03,no
+Transcendence,52,0,55,0.00,no
+Begin Again,52,0,73,0.00,no
+Central Intelligence,52,1,60,0.02,no
+Why Him?,52,2,60,0.03,no
+Silence,52,1,67,0.01,no
+Parasite,52,1,144,0.01,no
+Ant-Man and the Wasp: Quantumania,52,3,55,0.05,no
+Fast X,52,1,61,0.02,no
+Trolls Band Together,52,1,57,0.02,no
+The Marvels,52,2,56,0.04,no
+Alien: Romulus,52,2,61,0.03,no
+Mission: Impossible - The Final Reckoning,52,1,67,0.01,no
+Battle: Los Angeles,53,0,58,0.00,no
+The Descendants,53,0,76,0.00,no
+The Family,53,0,57,0.00,no
+The Secret Life of Walter Mitty,53,0,62,0.00,no
+Trainwreck,53,1,62,0.02,no
+Don't Breathe,53,1,62,0.02,no
+Bridget Jones's Baby,53,1,63,0.02,no
+Collateral Beauty,53,1,62,0.02,no
+The Lost City of Z,53,0,74,0.00,no
+Scary Stories to Tell in the Dark,53,0,61,0.00,no
+The Conjuring: The Devil Made Me Do It,53,2,59,0.03,no
+Snake Eyes: G.I. Joe Origins,53,2,58,0.03,no
+The Black Phone,53,1,65,0.02,no
+Bullet Train,53,1,73,0.01,no
+Transformers: Rise of the Beasts,53,2,66,0.03,no
+The Wild Robot,53,1,65,0.02,no
+Mufasa: The Lion King,53,4,63,0.06,no
+The Amateur,53,2,59,0.03,no
+A Nightmare on Elm Street,54,1,67,0.01,no
+Water for Elephants,54,0,62,0.00,no
+Mr. Popper's Penguins,54,0,60,0.00,no
+The Host,54,1,60,0.02,no
+Insidious: Chapter 2,54,1,57,0.02,no
+Pompeii,54,0,61,0.00,no
+Office Christmas Party,54,0,61,0.00,no
+Baywatch,54,2,58,0.03,no
+Wonder,54,0,62,0.00,no
+Darkest Hour,54,0,75,0.00,no
+Downsizing,54,0,71,0.00,no
+The Post,54,0,69,0.00,no
+The Equalizer 2,54,2,58,0.03,no
+The Spy Who Dumped Me,54,1,59,0.02,no
+Brightburn,54,1,56,0.02,no
+The Hustle,54,2,57,0.04,no
+Rocketman,54,1,67,0.01,no
+The Suicide Squad,54,2,62,0.03,no
+Last Night in Soho,54,1,79,0.01,no
+Indiana Jones and the Dial of Destiny,54,1,63,0.02,no
+Despicable Me 4,54,1,60,0.02,no
+Sinners,54,2,72,0.03,no
+The Life of Chuck,54,0,61,0.00,no
+The Fantastic 4: First Steps,54,2,62,0.03,no
+"10,000 BC",55,1,70,0.01,no
+The X Files: I Want to Believe,55,0,61,0.00,no
+Scream 4,55,0,62,0.00,no
+Wrath of the Titans,55,0,60,0.00,no
+12 Years a Slave,55,1,80,0.01,no
+Her,55,0,77,0.00,no
+Pitch Perfect 2,55,1,61,0.02,no
+Me Before You,55,0,65,0.00,no
+The Hitman's Bodyguard,55,3,62,0.05,no
+The Foreigner,55,3,63,0.05,no
+"Three Billboards Outside Ebbing, Missouri",55,0,106,0.00,no
+Sicario: Day of the Soldado,55,0,63,0.00,no
+Searching,55,1,77,0.01,no
+Pet Sematary,55,0,62,0.00,no
+House of Gucci,55,0,68,0.00,no
+Ambulance,55,1,64,0.02,no
+Strange World,55,4,60,0.07,no
+Twisters,55,1,62,0.02,no
+Mickey 17,55,4,69,0.06,no
+28 Years Later,55,0,58,0.00,no
+Sucker Punch,56,0,61,0.00,no
+Allegiant,56,0,64,0.00,no
+The Girl on the Train,56,0,60,0.00,no
+Valerian and the City of a Thousand Planets,56,2,66,0.03,no
+American Made,56,0,62,0.00,no
+Jigsaw,56,0,62,0.00,no
+The Greatest Showman,56,1,62,0.02,no
+Pacific Rim: Uprising,56,1,62,0.02,no
+Hitman's Wife's Bodyguard,56,3,64,0.05,no
+Sing 2,56,2,65,0.03,no
+Uncharted,56,1,61,0.02,no
+Transformers One,56,1,63,0.02,no
+Sonic the Hedgehog 3,56,2,60,0.03,no
+Thunderbolts*,56,2,63,0.03,no
+Superman,56,2,71,0.03,no
+The Mummy: Tomb of the Dragon Emperor,57,1,65,0.02,no
+Kick-Ass,57,2,72,0.03,no
+G.I. Joe: Retaliation,57,1,69,0.01,no
+Need for Speed,57,0,61,0.00,no
+Run All Night,57,0,64,0.00,no
+Hacksaw Ridge,57,1,68,0.01,no
+The Great Wall,57,2,65,0.03,no
+The Commuter,57,0,59,0.00,no
+Ocean's Eight,57,2,67,0.03,no
+Crawl,57,1,59,0.02,no
+Angel Has Fallen,57,1,61,0.02,no
+Black Widow,57,5,68,0.07,no
+West Side Story,57,1,71,0.01,no
+Cocaine Bear,57,1,62,0.02,no
+Wanted,58,1,68,0.01,no
+The Hangover Part II,58,2,64,0.03,no
+Rise of the Planet of the Apes,58,0,65,0.00,no
+John Carter,58,0,62,0.00,no
+Dark Shadows,58,0,61,0.00,no
+The Purge,58,4,66,0.06,no
+White House Down,58,2,68,0.03,no
+Ender's Game,58,1,63,0.02,no
+A Monster Calls,58,0,75,0.00,no
+Kingsman: The Golden Circle,58,0,66,0.00,no
+Glass,58,0,67,0.00,no
+Shazam!,58,1,62,0.02,no
+Hellboy,58,0,62,0.00,no
+The Secret Life of Pets 2,58,0,63,0.00,no
+A Quiet Place Part II,58,1,64,0.02,no
+Jurassic World Dominion,58,1,70,0.01,no
+Nosferatu,58,1,73,0.01,no
+Lilo & Stitch,58,2,63,0.03,no
+Ballerina,58,1,64,0.02,no
+The Incredible Hulk,59,1,68,0.01,no
+Green Zone,59,1,69,0.01,no
+The Twilight Saga: Eclipse,59,1,71,0.01,no
+Southpaw,59,0,66,0.00,no
+Trolls,59,1,65,0.02,no
+Patriots Day,59,1,69,0.01,no
+Despicable Me 3,59,1,63,0.02,no
+Atomic Blonde,59,3,67,0.04,no
+Geostorm,59,0,62,0.00,no
+Solo: A Star Wars Story,59,0,62,0.00,no
+Skyscraper,59,1,60,0.02,no
+Mamma Mia! Here We Go Again,59,1,67,0.01,no
+Dumbo,59,0,67,0.00,no
+Yesterday,59,0,72,0.00,no
+Ghostbusters: Afterlife,59,2,71,0.03,no
+Nope,59,2,76,0.03,no
+Halloween Ends,59,2,70,0.03,no
+Beetlejuice Beetlejuice,59,1,68,0.01,no
+Ne Zha 2,59,1,65,0.02,no
+Prince of Persia: The Sands of Time,60,0,72,0.00,no
+Cloudy with a Chance of Meatballs 2,60,0,64,0.00,no
+Insidious: Chapter 3,60,0,63,0.00,no
+The Conjuring 2,60,0,69,0.00,no
+The Shallows,60,1,66,0.02,no
+The Magnificent Seven,60,0,67,0.00,no
+King Arthur: Legend of the Sword,60,2,68,0.03,no
+Blade Runner 2049,60,1,81,0.01,no
+Jumanji: Welcome to the Jungle,60,2,75,0.03,no
+All the Money in the World,60,1,66,0.02,no
+Red Sparrow,60,2,67,0.03,no
+Ready Player One,60,2,78,0.03,no
+Us,60,1,62,0.02,no
+Cruella,60,5,71,0.07,no
+Shang-Chi and the Legend of the Ten Rings,60,5,70,0.07,no
+Halloween Kills,60,3,69,0.04,no
+Snow White,60,2,68,0.03,no
+Downton Abbey: The Grand Finale,60,1,62,0.02,no
+Journey to the Center of the Earth,61,0,71,0.00,no
+Miss Peregrine's Home for Peculiar Children,61,0,63,0.00,no
+Inferno,61,2,69,0.03,no
+The Boss Baby,61,1,63,0.02,no
+Alien: Covenant,61,1,70,0.01,no
+Dark Phoenix,61,0,64,0.00,no
+Venom: Let There Be Carnage,61,1,66,0.02,no
+Elvis,61,2,70,0.03,no
+The Smurfs,62,2,68,0.03,no
+Battleship,62,1,71,0.01,no
+Divergent,62,0,72,0.00,no
+Captain America: The Winter Soldier,62,0,73,0.00,no
+Neighbors,62,1,68,0.01,no
+Paper Towns,62,1,65,0.02,no
+Everest,62,2,74,0.03,no
+Money Monster,62,0,64,0.00,no
+The Nice Guys,62,1,76,0.01,no
+Dunkirk,62,2,76,0.03,no
+Murder on the Orient Express,62,1,70,0.01,no
+The Shape of Water,62,0,118,0.00,no
+A Quiet Place,62,2,69,0.03,no
+The Meg,62,2,68,0.03,no
+The Lego Movie 2: The Second Part,62,1,65,0.02,no
+Scream,62,3,71,0.04,no
+Wish,62,3,72,0.04,no
+Detective Pikachu,62,2,69,0.03,no
+Men in Black 3,63,3,71,0.04,no
+Captain Phillips,63,1,76,0.01,no
+Cinderella,63,0,70,0.00,no
+Independence Day: Resurgence,63,0,66,0.00,no
+Sully,63,1,74,0.01,no
+Pirates of the Caribbean: Dead Men Tell No Tales,63,0,68,0.00,no
+Transformers: The Last Knight,63,1,72,0.01,no
+Baby Driver,63,2,78,0.03,no
+Paddington 2,63,1,76,0.01,no
+Jurassic World: Fallen Kingdom,63,1,69,0.01,no
+Hotel Transylvania 3: Summer Vacation,63,0,69,0.00,no
+Fast & Furious Presents: Hobbs & Shaw,63,2,71,0.03,no
+The Bad Guys,63,2,68,0.03,no
+65,63,0,63,0.00,no
+Caught Stealing,63,0,63,0.00,no
+The Dictator,64,2,74,0.03,no
+How to Train Your Dragon 2,64,1,80,0.01,no
+Alice Through the Looking Glass,64,1,69,0.01,no
+Assassin's Creed,64,1,74,0.01,no
+The Mummy,64,1,73,0.01,no
+Mission: Impossible - Fallout,64,2,76,0.03,no
+Godzilla: King of the Monsters,64,3,73,0.04,no
+Guardians of the Galaxy Vol. 3,64,4,73,0.05,no
+Sound of Freedom,64,2,88,0.02,no
+Deadpool & Wolverine,64,1,69,0.01,no
+Materialists,64,1,70,0.01,no
+HIM,64,0,65,0.00,no
+Iron Man,65,0,90,0.00,no
+Evil Dead,65,0,73,0.00,no
+Oblivion,65,1,84,0.01,no
+Prisoners,65,0,76,0.00,no
+Noah,65,2,91,0.02,no
+The Legend of Tarzan,65,0,71,0.00,no
+Arrival,65,1,91,0.01,no
+Guardians of the Galaxy Vol. 2,65,0,72,0.00,no
+Wonder Woman,65,0,76,0.00,no
+No Time to Die,65,1,79,0.01,no
+John Wick: Chapter 4,65,2,73,0.03,no
+Aquaman and the Lost Kingdom,65,1,66,0.02,no
+Bring Her Back,65,2,73,0.03,no
+The Chronicles of Narnia: Prince Caspian,66,0,69,0.00,no
+The A-Team,66,1,74,0.01,no
+Pirates of the Caribbean: On Stranger Tides,66,0,75,0.00,no
+Oz the Great and Powerful,66,0,75,0.00,no
+Maleficent,66,1,75,0.01,no
+Ted 2,66,1,69,0.01,no
+10 Cloverfield Lane,66,0,71,0.00,no
+The Secret Life of Pets,66,2,72,0.03,no
+Allied,66,0,74,0.00,no
+Beauty and the Beast,66,0,72,0.00,no
+Star Wars: The Last Jedi,66,0,74,0.00,no
+Crazy Rich Asians,66,3,77,0.04,no
+Captain Marvel,66,0,75,0.00,no
+Lightyear,66,2,69,0.03,no
+The Dark Knight,67,1,111,0.01,no
+Source Code,67,1,79,0.01,no
+Thor: The Dark World,67,0,76,0.00,no
+American Hustle,67,0,76,0.00,no
+Blended,67,1,73,0.01,no
+Now You See Me 2,67,0,75,0.00,no
+Rogue One: A Star Wars Story,67,0,81,0.00,no
+Ghost in the Shell,67,0,75,0.00,no
+Spider-Man: Homecoming,67,1,76,0.01,no
+The Dark Tower,67,0,70,0.00,no
+Annabelle Comes Home,67,0,71,0.00,no
+Spider-Man: Far From Home,67,0,72,0.00,no
+The Lion King,67,1,73,0.01,no
+The King's Man,67,0,71,0.00,no
+Sonic the Hedgehog 2,67,2,73,0.03,no
+Inside Out 2,67,2,77,0.03,no
+Olympus Has Fallen,68,0,77,0.00,no
+Transformers: Age of Extinction,68,0,77,0.00,no
+Tomorrowland,68,0,72,0.00,no
+The BFG,68,2,81,0.02,no
+The Fate of the Furious,68,0,73,0.00,no
+Christopher Robin,68,0,74,0.00,no
+Aladdin,68,0,79,0.00,no
+Toy Story 4,68,0,75,0.00,no
+Eternals,68,1,77,0.01,no
+Puss in Boots: The Last Wish,68,1,78,0.01,no
+Kung Fu Panda 2,69,0,88,0.00,no
+The Hangover Part III,69,1,76,0.01,no
+Teenage Mutant Ninja Turtles: Out of the Shadows,69,0,76,0.00,no
+Sing,69,1,80,0.01,no
+Alita: Battle Angel,69,0,81,0.00,no
+Spider-Man: No Way Home,69,1,112,0.01,no
+Captain America: Brave New World,69,2,78,0.03,no
+Indiana Jones and the Kingdom of the Crystal Skull,70,0,86,0.00,no
+Knight and Day,70,0,85,0.00,no
+Cowboys & Aliens,70,0,77,0.00,no
+Pain & Gain,70,3,81,0.04,no
+Now You See Me,70,0,79,0.00,no
+Escape Plan,70,0,80,0.00,no
+Saving Mr. Banks,70,1,82,0.01,no
+300: Rise of an Empire,70,1,78,0.01,no
+Jurassic World,70,1,81,0.01,no
+The Accountant,70,1,81,0.01,no
+Annabelle: Creation,70,0,76,0.00,no
+Thor: Ragnarok,70,0,78,0.00,no
+Free Guy,70,4,80,0.05,no
+The Northman,70,1,79,0.01,no
+Kung Fu Panda,71,0,88,0.00,no
+Clash of the Titans,71,0,77,0.00,no
+Harry Potter and the Deathly Hallows: Part 2,71,0,93,0.00,no
+The Hunger Games,71,0,78,0.00,no
+Star Trek Into Darkness,71,0,86,0.00,no
+World War Z,71,0,81,0.00,no
+Hercules,71,0,78,0.00,no
+It,71,2,99,0.02,no
+Deadpool 2,71,0,92,0.00,no
+The Woman King,71,2,83,0.02,no
+The Little Mermaid,71,1,77,0.01,no
+The Karate Kid,72,2,87,0.02,no
+The Last Airbender,72,0,80,0.00,no
+Cars 2,72,0,79,0.00,no
+Green Lantern,72,0,77,0.00,no
+Snow White and the Huntsman,72,0,79,0.00,no
+Iron Man 3,72,0,84,0.00,no
+Monsters University,72,0,82,0.00,no
+The Book Thief,72,0,88,0.00,no
+Sin City: A Dame to Kill For,72,1,78,0.01,no
+Chappie,72,1,76,0.01,no
+San Andreas,72,0,74,0.00,no
+Jack Reacher: Never Go Back,72,1,86,0.01,no
+Doctor Strange,72,0,89,0.00,no
+Fantastic Beasts and Where to Find Them,72,0,78,0.00,no
+Cars 3,72,0,77,0.00,no
+Coco,72,0,95,0.00,no
+Maze Runner: The Death Cure,72,1,74,0.01,no
+Saw X,72,0,78,0.00,no
+WALL-E,72,1,105,0.01,no
+21,73,0,79,0.00,no
+Super 8,73,0,83,0.00,no
+Transformers: Dark of the Moon,73,0,93,0.00,no
+Prometheus,73,0,85,0.00,no
+The Great Gatsby,73,0,83,0.00,no
+After Earth,73,0,81,0.00,no
+The Expendables 3,73,1,90,0.01,no
+Let's Be Cops,73,1,77,0.01,no
+Ant-Man,73,0,87,0.00,no
+Vacation,73,1,76,0.01,no
+X-Men: Apocalypse,73,0,78,0.00,no
+Moana,73,0,88,0.00,no
+Ant-Man and the Wasp,73,0,80,0.00,no
+The Naked Gun,73,2,76,0.03,no
+Iron Man 2,74,0,87,0.00,no
+Madagascar 3: Europe's Most Wanted,74,0,76,0.00,no
+Ted,74,1,84,0.01,no
+Mad Max: Fury Road,74,1,109,0.01,no
+Mission: Impossible - Rogue Nation,74,2,89,0.02,no
+Deepwater Horizon,74,2,81,0.02,no
+Power Rangers,74,1,75,0.01,no
+Tomb Raider,74,0,81,0.00,no
+Elio,74,2,81,0.02,no
+Toy Story 3,75,0,84,0.00,no
+Captain America: The First Avenger,75,0,84,0.00,no
+Gravity,75,0,104,0.00,no
+Edge of Tomorrow,75,1,85,0.01,no
+Home,75,3,87,0.03,no
+The Man from U.N.C.L.E.,75,0,79,0.00,no
+The Huntsman: Winter's War,75,0,85,0.00,no
+Nerve,75,1,84,0.01,no
+La La Land,75,2,121,0.02,no
+Justice League,75,2,88,0.02,no
+Avengers: Endgame,75,0,101,0.00,no
+Dune,75,1,111,0.01,no
+The Bounty Hunter,76,1,84,0.01,no
+Thor,76,0,86,0.00,no
+Despicable Me 2,76,1,84,0.01,no
+The Lego Movie,76,1,84,0.01,no
+Fantastic Four,76,0,80,0.00,no
+The Jungle Book,76,0,84,0.00,no
+Black Panther,76,0,83,0.00,no
+Grown Ups,77,1,82,0.01,no
+Brave,77,0,87,0.00,no
+Man of Steel,77,1,92,0.01,no
+Godzilla,77,0,90,0.00,no
+Goosebumps,77,1,85,0.01,no
+The Matrix Resurrections,77,4,87,0.05,no
+Jurassic World Rebirth,77,2,87,0.02,no
+The Long Walk,77,0,77,0.00,no
+Hancock,78,0,92,0.00,no
+Bridesmaids,78,2,87,0.02,no
+The Heat,78,0,84,0.00,no
+The Fault in Our Stars,78,0,86,0.00,no
+Guardians of the Galaxy,78,0,94,0.00,no
+Avengers: Infinity War,78,0,87,0.00,no
+Incredibles 2,78,0,84,0.00,no
+M3GAN,78,3,89,0.03,no
+How to Train Your Dragon,79,0,92,0.00,no
+This Is the End,79,1,90,0.01,no
+Minions,79,1,89,0.01,no
+Hitman: Agent 47,79,0,83,0.00,no
+Captain America: Civil War,79,0,96,0.00,no
+Freakier Friday,79,2,84,0.02,no
+Insurgent,80,0,91,0.00,no
+Furious 7,80,1,92,0.01,no
+Avengers: Age of Ultron,80,0,92,0.00,no
+Pixels,80,1,81,0.01,no
+The Angry Birds Movie,80,0,89,0.00,no
+Old,80,0,86,0.00,no
+Smurfs,80,1,89,0.01,no
+Robin Hood,81,1,87,0.01,no
+The Croods,81,1,86,0.01,no
+Maze Runner: The Scorch Trials,81,1,95,0.01,no
+War for the Planet of the Apes,81,1,88,0.01,no
+F9,81,2,90,0.02,no
+Weapons,81,3,84,0.04,no
+Nobody 2,81,1,83,0.01,no
+Dawn of the Planet of the Apes,82,1,93,0.01,no
+Escape Room: Tournament of Champions,82,3,88,0.03,no
+21 Jump Street,83,0,91,0.00,no
+The Avengers,83,0,94,0.00,no
+Carrie,83,1,91,0.01,no
+Frozen,83,0,113,0.00,no
+The Roses,83,2,87,0.02,no
+Shrek Forever After,84,1,95,0.01,no
+The Amazing Spider-Man,84,1,97,0.01,no
+The Super Mario Bros. Movie,84,2,90,0.02,no
+The Creator,84,1,98,0.01,no
+A Big Bold Beautiful Journey,84,0,88,0.00,no
+Made of Honor,85,0,90,0.00,no
+Spy,85,0,94,0.00,no
+Batman v Superman: Dawn of Justice,85,6,116,0.05,no
+The Hunger Games: Catching Fire,86,1,97,0.01,no
+The Hobbit: The Desolation of Smaug,86,0,101,0.00,no
+Terminator Genisys,86,1,97,0.01,no
+22 Jump Street,87,0,95,0.00,no
+Finding Dory,87,0,92,0.00,no
+Five Feet Apart,87,2,92,0.02,no
+X-Men: Days of Future Past,88,0,106,0.00,no
+Inside Out,88,0,113,0.00,no
+American Assassin,89,1,93,0.01,no
+Minions: The Rise of Gru,89,12,105,0.11,no
+John Wick: Chapter 3 - Parabellum,90,2,98,0.02,no
+Encanto,90,2,100,0.02,no
+Thor: Love and Thunder,90,1,94,0.01,no
+Elemental,90,0,95,0.00,no
+A Haunting in Venice,90,0,92,0.00,no
+The Conjuring: Last Rites,90,2,93,0.02,no
+The Amazing Spider-Man 2,91,1,110,0.01,no
+Teenage Mutant Ninja Turtles,91,1,105,0.01,no
+The Equalizer,91,0,103,0.00,no
+Gabby's Dollhouse: The Movie,92,0,92,0.00,no
+One Battle After Another,97,1,105,0.01,no
+The Bad Guys 2,98,1,102,0.01,no
+The Maze Runner,100,1,103,0.01,no
+Demon Slayer: Kimetsu no Yaiba Infinity Castle,100,1,102,0.01,no
+Avatar: The Way of Water,111,1,126,0.01,no
+Five Nights at Freddy's,111,2,120,0.02,no
+Spider-Man: Across the Spider-Verse,133,2,146,0.01,no
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
