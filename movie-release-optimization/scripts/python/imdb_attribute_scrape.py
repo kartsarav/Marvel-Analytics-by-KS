@@ -1,11 +1,31 @@
 #date created: 11.25.2025
-#date modified: 11.25.2025
+#date modified: 12.13.2025
 import requests
 import pandas as pd
 import os
 import time
 import json
 from tqdm import tqdm
+import re
+pattern = re.compile(r"([a-zA-Z]+)\s*\((\d+)\)")
+
+def parse_counts(attr_dict):
+    blank_count = 0
+    internet_count = 0
+    total_count = 0
+
+    if not isinstance(attr_dict, dict):
+        return blank_count, internet_count, total_count
+
+    for label, count in attr_dict.items():
+        label = label.strip().lower()
+        total_count += count
+        if label == "blank":
+            blank_count = count
+        elif label == "internet":
+            internet_count = count
+
+    return blank_count, internet_count, total_count
 
 # === PATH SETTINGS ===
 base_dir = os.path.dirname(os.path.abspath(__file__))
@@ -72,6 +92,10 @@ def fetch_all_attributes(imdb_id):
     while True:
         data = fetch_release_page(imdb_id, cursor)
 
+        # Defensive check -- sometimes IMDb returns unexpected JSON
+        if not isinstance(data, dict) or "data" not in data or data["data"] is None or "title" not in data["data"]:
+            raise Exception(f"Unexpected response structure for {imdb_id}: {str(data)[:300]}")
+
         edges = data["data"]["title"]["releaseDates"]["edges"]
         page_info = data["data"]["title"]["releaseDates"]["pageInfo"]
 
@@ -116,27 +140,54 @@ for _, row in tqdm(df.iterrows(), total=len(df)):
     title = str(row["title"])
     imdb_id = str(row["imdb_id"])
 
+    error_flag = False
+
     # Skip missing IMDb IDs
     if imdb_id == "" or imdb_id.lower() == "nan":
-        results.append({"title": title, "attributes": ""})
+        results.append({"title": title, "attributes": "", "error": "no"})
         continue
 
     # Cache hit
     if imdb_id in cache:
         attributes = cache[imdb_id]  # now a dict of counts
     else:
-        try:
-            attributes = fetch_all_attributes(imdb_id)
-        except Exception as e:
-            print(f"⚠️ Error fetching {imdb_id}: {e}")
+        attributes = None
+        for attempt in range(1, 4):
+            try:
+                attributes = fetch_all_attributes(imdb_id)
+                break
+            except Exception as e:
+                # If the response was a JSON without expected keys, include more info
+                print(f"⚠️ Error fetching {imdb_id} (attempt {attempt}/3): {e}")
+                if attempt < 3:
+                    sleep_time = 1.5 * attempt
+                    print(f"   → retrying after {sleep_time}s...")
+                    time.sleep(sleep_time)
+                else:
+                    print(f"   → failed to fetch {imdb_id} after 3 attempts, recording empty attributes.")
+                    error_flag = True
+        if attributes is None:
             attributes = {}
-
         cache[imdb_id] = attributes
 
-    results.append({
-        "title": title,
-        "attributes": ", ".join([f"{label} ({count})" for label, count in attributes.items()])
+    blank_c, internet_c, total_c = parse_counts(attributes)
+
+    internet_ratio = round(internet_c / total_c, 2) if total_c > 0 else 0
+    internet_dominance = "yes" if internet_c > blank_c else "no"
+
+    row_data = row.to_dict()
+
+    row_data.update({
+        "attributes": ", ".join([f"{label} ({count})" for label, count in attributes.items()]),
+        "blank": blank_c,
+        "internet": internet_c,
+        "total": total_c,
+        "internet_ratio": internet_ratio,
+        "internet_dominance": internet_dominance,
+        "error": "yes" if error_flag else "no"
     })
+
+    results.append(row_data)
 
 # === Save Cache ===
 with open(CACHE_FILE, "w") as f:
