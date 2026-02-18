@@ -73,7 +73,7 @@ else:
 # Save the combined CSV
 base_dir = os.path.dirname(os.path.abspath(__file__))
 root_dir = os.path.abspath(os.path.join(base_dir, "..", ".."))
-output_path = os.path.join(root_dir, "data", "output", "csv", "marvel_movies.csv")
+output_path = os.path.join(root_dir, "data", "output", "csv", "scrape_marvel_movies.csv")
 all_movies.to_csv(output_path, index=False)
 
 

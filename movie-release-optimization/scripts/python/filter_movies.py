@@ -7,6 +7,7 @@
 # Supports multiple Marvel matches per movie entry.
 
 import pandas as pd
+import numpy as np
 from datetime import timedelta
 import os
 
@@ -15,8 +16,8 @@ base_dir = os.path.dirname(os.path.abspath(__file__))
 root_dir = os.path.abspath(os.path.join(base_dir, "..", ".."))
 
 all_movies_file = os.path.join(root_dir, "data", "processing", "filter 1", "csv", "movies.csv")
-marvel_movies_file = os.path.join(root_dir, "data", "processing", "filter 1", "csv", "marvel_movies.csv")
-output_file = os.path.join(root_dir, "data", "output", "csv", "filtered_movies.csv")
+marvel_movies_file = os.path.join(root_dir, "data", "processing", "filter 1", "csv", "scrape_marvel_movies.csv")
+output_dir = os.path.join(root_dir, "data", "output", "csv")
 
 VOTE_FACTOR = 0.1
 POPULARITY_FACTOR = 0.15
@@ -75,9 +76,17 @@ if marvel_movies["title_clean"].isna().any():
     raise RuntimeError("Fix missing Marvel titles before continuing.")
 
 
-# === STEP 2: DATE WINDOW FILTERING ===
-print("🔹 Filtering movies within same month or week of each Marvel movie release...")
-filtered_list = []
+# === STEP 2: DISTANCE-BASED COMPETITION ANALYSIS ===
+print("🔹 Computing distance-based competition for each Marvel movie...")
+
+# Ensure release_date is datetime
+all_movies["release_date"] = pd.to_datetime(all_movies["release_date"], errors="coerce")
+
+if all_movies["release_date"].isna().any():
+    print("❌ ERROR: Some release_date values could not be parsed.")
+    raise RuntimeError("Fix release_date column before continuing.")
+
+os.makedirs(output_dir, exist_ok=True)
 
 for _, mrow in marvel_movies.iterrows():
     marvel_title = mrow["title_clean"]
@@ -88,81 +97,46 @@ for _, mrow in marvel_movies.iterrows():
         print(f"❌ ERROR: Marvel movie '{marvel_title}' not found in all_movies.csv")
         raise RuntimeError("Marvel title missing from all_movies")
 
-    marvel_year = marvel_row.iloc[0]["release_year"]
-    marvel_month = marvel_row.iloc[0]["release_month"]
-    marvel_week = marvel_row.iloc[0]["iso_week"]
+    marvel_release_date = marvel_row.iloc[0]["release_date"]
 
-    marvel_imdb_votes = marvel_row.iloc[0].get("imdb_votes", None)
-    marvel_popularity = marvel_row.iloc[0].get("popularity", None)
+    # Copy full dataset
+    competitors = all_movies.copy()
 
-    nearby = all_movies[
-        (
-            (all_movies["release_year"] == marvel_year) &
-            (all_movies["release_month"] == marvel_month)
-        )
-        |
-        (
-            (all_movies["release_year"] == marvel_year) &
-            (all_movies["iso_week"] == marvel_week)
-        )
-    ].copy()
+    # Exclude the Marvel movie itself
+    competitors = competitors[competitors["title_clean"] != marvel_title]
 
+    # Compute signed distance in days
+    competitors["distance"] = (
+        competitors["release_date"] - marvel_release_date
+    ).dt.days
 
-    # === STEP 3: APPLY DYNAMIC COMPETITOR FILTERS ===
-    if marvel_imdb_votes is None or pd.isna(marvel_imdb_votes) or marvel_popularity is None or pd.isna(marvel_popularity):
-        print(f"⚠️ WARNING: Missing IMDb votes or popularity for Marvel movie '{marvel_title}'. Skipping dynamic filters.")
-    else:
-        vote_threshold = marvel_imdb_votes * VOTE_FACTOR
-        pop_threshold = marvel_popularity * POPULARITY_FACTOR
+    # Keep only realistic theatrical competition window (±45 days)
+    competitors = competitors[competitors["distance"].abs() <= 45]
 
-        nearby = nearby[
-            (nearby["imdb_votes"] >= vote_threshold) &
-            (nearby["popularity"] >= pop_threshold)
-        ]
-
-    # Ensure imdb_id column is preserved and cast to string
-    if "imdb_id" in nearby.columns:
-        nearby["imdb_id"] = nearby["imdb_id"].astype(str)
-    else:
-        print("⚠️ WARNING: imdb_id column missing in movies.csv!")
-
-    # === STEP 4: FILTER OUT STREAMING-ONLY RELEASES (production_companies) ===
-    if "production_companies" in nearby.columns:
-        nearby["production_companies"] = nearby["production_companies"].fillna("").astype(str).str.lower()
+    # Remove streaming-only releases
+    if "production_companies" in competitors.columns:
+        competitors["production_companies"] = competitors["production_companies"].fillna("").astype(str).str.lower()
         pattern = "|".join([kw.replace("+", "\\+") for kw in STREAMING_KEYWORDS])
-        nearby = nearby[~nearby["production_companies"].str.contains(pattern, regex=True)]
+        competitors = competitors[~competitors["production_companies"].str.contains(pattern, regex=True)]
 
-    if not nearby.empty:
-        nearby["marvel_movie"] = marvel_title
-        filtered_list.append(nearby)
+    # Compute strength using log revenue
+    if "revenue" in competitors.columns:
+        competitors["revenue"] = pd.to_numeric(competitors["revenue"], errors="coerce").fillna(0)
+        competitors["strength"] = np.log1p(competitors["revenue"])
+    else:
+        print("❌ ERROR: revenue column missing in movies.csv")
+        raise RuntimeError("Revenue column required for strength calculation")
 
+    # Compute competition score (distance decay)
+    competitors["score"] = competitors["strength"] / (1 + competitors["distance"].abs())
 
-# === COMBINE RESULTS ===
-if filtered_list:
-    filtered_movies = pd.concat(filtered_list, ignore_index=True)
-else:
-    print("⚠️ No movies passed both filters.")
-    filtered_movies = pd.DataFrame(columns=list(all_movies.columns) + ["marvel_movie"])
+    # Keep Marvel movie reference
+    competitors["marvel_movie"] = marvel_title
 
+    # Generate per-Marvel output file
+    safe_title = marvel_title.replace(" ", "_")
+    output_file = os.path.join(output_dir, f"{safe_title}_competition.csv")
 
-# === MERGE MULTIPLE MARVEL MATCHES ===
-print("🔹 Merging duplicate movies...")
+    competitors.to_csv(output_file, index=False)
 
-def merge_unique(values):
-    unique_vals = sorted(set(values))
-    return ", ".join(map(str, unique_vals))
-
-filtered_movies = (
-    filtered_movies
-    .groupby("title", as_index=False)
-    .agg({
-        **{col: "first" for col in filtered_movies.columns if col != "marvel_movie"},
-        "marvel_movie": merge_unique
-    })
-)
-
-# === SAVE OUTPUT ===
-os.makedirs(os.path.dirname(output_file), exist_ok=True)
-filtered_movies.to_csv(output_file, index=False)
-
-print(f"✅ Filtering complete! {len(filtered_movies)} movies saved to '{output_file}'.")
+    print(f"✅ Saved competition file for '{marvel_title}' to '{output_file}'")

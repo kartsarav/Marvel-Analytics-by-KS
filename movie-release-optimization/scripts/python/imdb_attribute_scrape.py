@@ -31,11 +31,13 @@ def parse_counts(attr_dict):
 base_dir = os.path.dirname(os.path.abspath(__file__))
 root_dir = os.path.abspath(os.path.join(base_dir, "..", ".."))
 
-INPUT_FILE = os.path.join(root_dir, "data", "processing", "filter 2", "csv", "filtered_movies.csv")
-OUTPUT_FILE = os.path.join(root_dir, "data", "output", "csv", "imdb_attributes_movies.csv")
+MARVEL_FILE = os.path.join(root_dir, "data", "processing", "filter 1", "csv", "scrape_marvel_movies.csv")
+COMPETITION_DIR = os.path.join(root_dir, "data", "processing", "filter 2", "csv", "competition")
+OUTPUT_DIR = os.path.join(root_dir, "data", "output", "csv")
+
 CACHE_FILE = os.path.join(root_dir, "data", "output", "csv", "imdb_attributes_cache.json")
 
-os.makedirs(os.path.dirname(OUTPUT_FILE), exist_ok=True)
+os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 # === IMDb GraphQL API ===
 IMDB_GRAPHQL_URL = "https://caching.graphql.imdb.com/"
@@ -121,9 +123,12 @@ def fetch_all_attributes(imdb_id):
     return attributes
 
 
-# === Load Input CSV ===
-print("🔹 Loading movie list...")
-df = pd.read_csv(INPUT_FILE)
+# === Load Marvel Master List ===
+print("🔹 Loading Marvel master list...")
+marvel_df = pd.read_csv(MARVEL_FILE)
+
+if "title" not in marvel_df.columns:
+    raise RuntimeError("Marvel file must contain a 'title' column.")
 
 # === Load Cache ===
 if os.path.exists(CACHE_FILE):
@@ -132,69 +137,86 @@ if os.path.exists(CACHE_FILE):
 else:
     cache = {}
 
-# === Prepare Output Storage ===
-results = []
+# === Process Each Marvel Competition File ===
+for _, mrow in marvel_df.iterrows():
 
-print("🎬 Scraping IMDb attributes...")
-for _, row in tqdm(df.iterrows(), total=len(df)):
-    title = str(row["title"])
-    imdb_id = str(row["imdb_id"])
+    marvel_title = str(mrow["title"]).strip()
+    safe_title = marvel_title.replace(" ", "_")
 
-    error_flag = False
+    input_path = os.path.join(COMPETITION_DIR, f"{safe_title}_competition.csv")
 
-    # Skip missing IMDb IDs
-    if imdb_id == "" or imdb_id.lower() == "nan":
-        results.append({"title": title, "attributes": "", "error": "no"})
-        continue
+    if not os.path.exists(input_path):
+        raise RuntimeError(f"Missing competition file: {input_path}")
 
-    # Cache hit
-    if imdb_id in cache:
-        attributes = cache[imdb_id]  # now a dict of counts
-    else:
-        attributes = None
-        for attempt in range(1, 4):
-            try:
-                attributes = fetch_all_attributes(imdb_id)
-                break
-            except Exception as e:
-                # If the response was a JSON without expected keys, include more info
-                print(f"⚠️ Error fetching {imdb_id} (attempt {attempt}/3): {e}")
-                if attempt < 3:
-                    sleep_time = 1.5 * attempt
-                    print(f"   → retrying after {sleep_time}s...")
-                    time.sleep(sleep_time)
-                else:
-                    print(f"   → failed to fetch {imdb_id} after 3 attempts, recording empty attributes.")
-                    error_flag = True
-        if attributes is None:
-            attributes = {}
-        cache[imdb_id] = attributes
+    print(f"\n🎬 Processing competition file for: {marvel_title}")
+    df = pd.read_csv(input_path)
 
-    blank_c, internet_c, total_c = parse_counts(attributes)
+    results = []
 
-    internet_ratio = round(internet_c / total_c, 2) if total_c > 0 else 0
-    internet_dominance = "yes" if internet_c > blank_c else "no"
+    for _, row in tqdm(
+        df.iterrows(),
+        total=len(df),
+        desc=f"Scraping IMDb release attributes ({marvel_title})",
+        unit="movie"
+    ):
+        title = str(row.get("title", ""))
+        imdb_id = str(row.get("imdb_id", ""))
 
-    row_data = row.to_dict()
+        error_flag = False
 
-    row_data.update({
-        "attributes": ", ".join([f"{label} ({count})" for label, count in attributes.items()]),
-        "blank": blank_c,
-        "internet": internet_c,
-        "total": total_c,
-        "internet_ratio": internet_ratio,
-        "internet_dominance": internet_dominance,
-        "error": "yes" if error_flag else "no"
-    })
+        if imdb_id == "" or imdb_id.lower() == "nan":
+            row_data = row.to_dict()
+            row_data.update({"attributes": "", "error": "no"})
+            results.append(row_data)
+            continue
 
-    results.append(row_data)
+        if imdb_id in cache:
+            attributes = cache[imdb_id]
+        else:
+            attributes = None
+            for attempt in range(1, 4):
+                try:
+                    attributes = fetch_all_attributes(imdb_id)
+                    break
+                except Exception as e:
+                    print(f"⚠️ Error fetching {imdb_id} (attempt {attempt}/3): {e}")
+                    if attempt < 3:
+                        sleep_time = 1.5 * attempt
+                        print(f"   → retrying after {sleep_time}s...")
+                        time.sleep(sleep_time)
+                    else:
+                        print(f"   → failed after 3 attempts.")
+                        error_flag = True
+            if attributes is None:
+                attributes = {}
+            cache[imdb_id] = attributes
 
-# === Save Cache ===
+        blank_c, internet_c, total_c = parse_counts(attributes)
+
+        internet_ratio = round(internet_c / total_c, 2) if total_c > 0 else 0
+        internet_dominance = "yes" if internet_c > blank_c else "no"
+
+        row_data = row.to_dict()
+        row_data.update({
+            "attributes": ", ".join([f"{label} ({count})" for label, count in attributes.items()]),
+            "blank": blank_c,
+            "internet": internet_c,
+            "total": total_c,
+            "internet_ratio": internet_ratio,
+            "internet_dominance": internet_dominance,
+            "error": "yes" if error_flag else "no"
+        })
+
+        results.append(row_data)
+
+    output_df = pd.DataFrame(results)
+    output_path = os.path.join(OUTPUT_DIR, f"{safe_title}_attributes.csv")
+    output_df.to_csv(output_path, index=False)
+
+    print(f"✅ Saved attributes file: {output_path}")
+
+# === Save Cache After All Movies ===
 with open(CACHE_FILE, "w") as f:
     json.dump(cache, f, indent=2)
 
-# === Save Output CSV ===
-output_df = pd.DataFrame(results)
-output_df.to_csv(OUTPUT_FILE, index=False)
-
-print(f"✅ Done! Saved IMDb attributes to: {OUTPUT_FILE}")
+print("\n✅ All Marvel competition files processed successfully.")
