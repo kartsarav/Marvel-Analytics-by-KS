@@ -1,6 +1,6 @@
 🎬 Movie Release Optimization
 
-Part of the Marvel Analytics by BC series — this project uses data analytics to determine the most optimal release timing for Marvel movies to maximize theatrical viewership and box office performance.
+Part of the Marvel Analytics by KS series — this project uses data analytics to determine the most optimal release timing for Marvel movies to maximize theatrical viewership and box office performance.
 
 ⸻
 
