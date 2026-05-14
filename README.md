@@ -71,6 +71,6 @@ Marvel-Analytics-by-KS
 ## 💡 About the Author
 
 Hi! I’m **Kartik Saravanan**, an Industrial & Systems Engineering student at the **University of Washington** passionate about data analytics, process optimization, and systems thinking.  
-This series combines my analytical interest in systems with a creative passion for movies and storytelling.
+This series combines my analytical interest in systems with an interest in movies and storytelling.
 
 🔗 [LinkedIn](https://www.linkedin.com/in/kartsarav) • 📧 kartsarav@gmail.com
